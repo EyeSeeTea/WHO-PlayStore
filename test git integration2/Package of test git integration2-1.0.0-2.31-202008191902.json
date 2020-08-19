@@ -1,0 +1,2310 @@
+{
+    "package": {
+        "id": "dRPQCPfbRpk",
+        "name": "Package of test git integration2",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.31",
+        "module": {
+            "id": "np2AJl2jKdW",
+            "name": "test git integration2",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "WIDP IT team",
+                "id": "UfhhwZK73Lg"
+            }
+        },
+        "user": {
+            "id": "H4atNsEuKxP",
+            "name": "Foche Ignacio"
+        },
+        "created": "2020-08-19T18:02:52.811Z",
+        "lastUpdated": "2020-08-19T18:03:04.801Z",
+        "lastUpdatedBy": {
+            "id": "H4atNsEuKxP",
+            "name": "Foche Ignacio"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2019-05-25T10:52:32.009",
+            "id": "ZO0DQJePIEH",
+            "created": "2017-03-12T21:26:28.325",
+            "name": "BU_minimum indicators_annual",
+            "shortName": "BU_minimum indicators_annual",
+            "code": "BU_minimum indicators_annual",
+            "validCompleteOnly": false,
+            "publicAccess": "--------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "SECTION",
+            "version": 16,
+            "timelyDays": 60,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "BU_minimum indicators_annual",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "displayShortName": "BU_minimum indicators_annual",
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": true,
+            "dimensionItem": "ZO0DQJePIEH",
+            "mobile": false,
+            "periodType": "Yearly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "workflow": {
+                "id": "Li5owPOqVoe"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "lff6zDTvFi8"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tMY0YnV1PHQ"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gUqE2t4L5UU"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hnihvm6kXLX"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "z2JQOIDlZUn"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fCOiZOvhlYU"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AD4v3ACiiXX"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ijKH3KK0Etn"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pjd3beNHprb"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ckHbEc6qoyV"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire vise à collecter les indicateurs minimaux concernant l'ulcère de Buruli dans les pays endémiques. "
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire vise à collecter les indicateurs minimaux concernant l'ulcère de Buruli dans les pays endémiques. "
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire vise à collecter les indicateurs minimaux concernant l'ulcère de Buruli dans les pays endémiques. "
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire vise à collecter les indicateurs minimaux concernant l'ulcère de Buruli dans les pays endémiques. "
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB_Indicateurs_Annuel"
+                }
+            ],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [
+                {
+                    "lastUpdated": "2017-03-12T21:26:27.879",
+                    "created": "2017-03-12T21:26:27.879",
+                    "value": "Op_Disease_BU",
+                    "attribute": {
+                        "id": "x8YCHCvls4r"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-04-23T10:35:06.112",
+                    "created": "2017-03-12T21:26:27.879",
+                    "value": "Op_Disease_BU",
+                    "attribute": {
+                        "id": "x8YCHCvls4r"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-04-23T10:35:20.776",
+                    "created": "2017-03-12T21:26:27.879",
+                    "value": "Op_Disease_BU",
+                    "attribute": {
+                        "id": "x8YCHCvls4r"
+                    }
+                },
+                {
+                    "lastUpdated": "2017-03-12T21:26:27.879",
+                    "created": "2017-03-12T21:26:27.879",
+                    "value": "Op_Disease_BU",
+                    "attribute": {
+                        "id": "x8YCHCvls4r"
+                    }
+                }
+            ],
+            "indicators": [],
+            "sections": [
+                {
+                    "id": "lCu0Onx9YBZ"
+                },
+                {
+                    "id": "yuOz1ToZ7mR"
+                },
+                {
+                    "id": "QBA9xJy694a"
+                },
+                {
+                    "id": "cKWt05KOBMm"
+                },
+                {
+                    "id": "aEjB04cV1Wn"
+                },
+                {
+                    "id": "gGk9TLyXQZO"
+                },
+                {
+                    "id": "VeERzaIGC16"
+                }
+            ],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": [
+                {
+                    "id": "WXGcnQWJ0Qd"
+                },
+                {
+                    "id": "JEHwU064LAj"
+                },
+                {
+                    "id": "q23bFLr2E5D"
+                },
+                {
+                    "id": "ovruC9wzRBW"
+                },
+                {
+                    "id": "LbWpsX1FJcC"
+                },
+                {
+                    "id": "wj7iV08dvFq"
+                },
+                {
+                    "id": "SnYHrnchKjL"
+                },
+                {
+                    "id": "jkyBvNzcTLl"
+                },
+                {
+                    "id": "jFOZHDZpjPL"
+                },
+                {
+                    "id": "BmTVMvJHVBO"
+                },
+                {
+                    "id": "EDHO4qOyY88"
+                },
+                {
+                    "id": "WtcZBCTspgM"
+                },
+                {
+                    "id": "I3NxIqG7bD4"
+                },
+                {
+                    "id": "aQJQ5mijJmH"
+                },
+                {
+                    "id": "jVqoXv7rFns"
+                },
+                {
+                    "id": "shRXArPWh8H"
+                },
+                {
+                    "id": "hmZE3mVAZFf"
+                },
+                {
+                    "id": "KAUSOoBq5Ft"
+                },
+                {
+                    "id": "Fi5lLVwe1Th"
+                },
+                {
+                    "id": "h7ARR5vhSLF"
+                },
+                {
+                    "id": "mhWSEv79IJW"
+                },
+                {
+                    "id": "UJVEh0g7qOo"
+                },
+                {
+                    "id": "rm6NgPbM6Ld"
+                },
+                {
+                    "id": "G037PAPU5dO"
+                },
+                {
+                    "id": "er7MPiN3tdH"
+                },
+                {
+                    "id": "JI5lagoUJR4"
+                },
+                {
+                    "id": "VPesUmegQpP"
+                },
+                {
+                    "id": "EGLpIMSAWhx"
+                },
+                {
+                    "id": "vkXlj7ZPkGi"
+                },
+                {
+                    "id": "DzAOqCf0ots"
+                },
+                {
+                    "id": "qbqrFLCJewu"
+                },
+                {
+                    "id": "WC5rU5fLMzY"
+                },
+                {
+                    "id": "ZcrjvJaYQb7"
+                },
+                {
+                    "id": "Zav7juzGmEo"
+                },
+                {
+                    "id": "HfVjCurKxh2"
+                },
+                {
+                    "id": "quQpOfBIDFC"
+                },
+                {
+                    "id": "dpcvWc01CeN"
+                }
+            ]
+        }
+    ],
+    "dataElements": [
+        {
+            "code": "BU_Cl_CatI_%",
+            "lastUpdated": "2020-03-31T17:13:00.278",
+            "id": "lff6zDTvFi8",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_CatI_%",
+            "shortName": "% category I",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_CatI_%",
+            "publicAccess": "--------",
+            "description": "Category I: A single lesion 5cm or less",
+            "displayShortName": "% category I",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% category I",
+            "displayDescription": "Category I: A single lesion 5cm or less",
+            "dimensionItem": "lff6zDTvFi8",
+            "displayFormName": "% category I",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "lff6zDTvFi8"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "lff6zDTvFi8"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie I: Une lésion unique de 5cm ou moins"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatI_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatI_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie I: Une lésion unique de 5cm ou moins"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatI_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie I: Une lésion unique de 5cm ou moins"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie I: Une lésion unique de 5cm ou moins"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatI_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie I"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_CatII_%",
+            "lastUpdated": "2020-03-31T17:12:59.894",
+            "id": "ckHbEc6qoyV",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_CatII_%",
+            "shortName": "% category II",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_CatII_%",
+            "publicAccess": "--------",
+            "description": "Category II: A single lesion 5-15cm",
+            "displayShortName": "% category II",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% category II",
+            "displayDescription": "Category II: A single lesion 5-15cm",
+            "dimensionItem": "ckHbEc6qoyV",
+            "displayFormName": "% category II",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "ckHbEc6qoyV"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ckHbEc6qoyV"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie II: Une lésion unique de 5 à 15 cm"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie II: Une lésion unique de 5 à 15 cm"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatII_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatII_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatII_%"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie II: Une lésion unique de 5 à 15 cm"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie II: Une lésion unique de 5 à 15 cm"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatII_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_CatIII_%",
+            "lastUpdated": "2020-03-31T17:13:09.841",
+            "id": "z2JQOIDlZUn",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_CatIII_%",
+            "shortName": "% category III",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_CatIII_%",
+            "publicAccess": "--------",
+            "description": "Category III: A single lesion more than 15 cm or multiple lesions or lesions at critical sites or osteomyelitis",
+            "displayShortName": "% category III",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% category III",
+            "displayDescription": "Category III: A single lesion more than 15 cm or multiple lesions or lesions at critical sites or osteomyelitis",
+            "dimensionItem": "z2JQOIDlZUn",
+            "displayFormName": "% category III",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "z2JQOIDlZUn"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "z2JQOIDlZUn"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatIII_%"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie III: Une lésion unique de plus de 15 cm ou mulltiple lésions ou lésions au niveau d'un site critique ou ostéomyélite"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatIII_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie III"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie III: Une lésion unique de plus de 15 cm ou mulltiple lésions ou lésions au niveau d'un site critique ou ostéomyélite"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie III"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie III"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie III"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie III: Une lésion unique de plus de 15 cm ou mulltiple lésions ou lésions au niveau d'un site critique ou ostéomyélite"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatIII_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_CatIII_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% catégorie II"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Catégorie III: Une lésion unique de plus de 15 cm ou mulltiple lésions ou lésions au niveau d'un site critique ou ostéomyélite"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_JointLim_%",
+            "lastUpdated": "2020-03-31T17:13:10.086",
+            "id": "gUqE2t4L5UU",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_JointLim_%",
+            "shortName": "% limitation of movement",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_JointLim_%",
+            "publicAccess": "--------",
+            "displayShortName": "% limitation of movement",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% limitation of movement",
+            "dimensionItem": "gUqE2t4L5UU",
+            "displayFormName": "% limitation of movement",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "gUqE2t4L5UU"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gUqE2t4L5UU"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_JointLim_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_JointLim_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_JointLim_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_JointLim_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% limitation de mouvement"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_LowLimb_%",
+            "lastUpdated": "2020-03-31T17:13:06.292",
+            "id": "tMY0YnV1PHQ",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_LowLimb_%",
+            "shortName": "% location on lower limbs",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_LowLimb_%",
+            "publicAccess": "--------",
+            "displayShortName": "% location on lower limbs",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% location on lower limbs",
+            "dimensionItem": "tMY0YnV1PHQ",
+            "displayFormName": "% location on lower limbs",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "tMY0YnV1PHQ"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tMY0YnV1PHQ"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% localisation membres inférieurs"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% membres inférieurs"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_MbreInf_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% membres inférieurs"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% localisation membres inférieurs"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_MbreInf_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_MbreInf_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_MbreInf_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% membres inférieurs"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% localisation membres inférieurs"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% localisation membres inférieurs"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% membres inférieurs"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_Ulcer_%",
+            "lastUpdated": "2019-05-25T10:52:31.471",
+            "id": "AD4v3ACiiXX",
+            "created": "2017-03-12T21:49:03.997",
+            "name": "BU_Cl_Ulcer_%",
+            "shortName": "% ulcers",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_Ulcer_%",
+            "publicAccess": "--------",
+            "displayShortName": "% ulcers",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% ulcers",
+            "dimensionItem": "AD4v3ACiiXX",
+            "displayFormName": "% ulcers",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "AD4v3ACiiXX"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AD4v3ACiiXX"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_Ulcere_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_Ulcere_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_Ulcere_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Cl_Ulcere_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% ulcères"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_AnnualCases",
+            "lastUpdated": "2020-03-31T17:31:23.806",
+            "id": "tOpVIYrnbhk",
+            "created": "2018-05-09T22:26:29.218",
+            "name": "BU_EPI_AnnualCases",
+            "shortName": "# annual new BU cases",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_AnnualCases",
+            "publicAccess": "--------",
+            "description": "WHO defines a Buruli ulcer case as any person with painless nodule, papule, plaque or oedema evolving into a painless ulcer with undermined edges, often leading to invalidating sequelae in an endemic area.",
+            "displayShortName": "# annual new BU cases",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases diagnosed within reporting year",
+            "displayDescription": "WHO defines a Buruli ulcer case as any person with painless nodule, papule, plaque or oedema evolving into a painless ulcer with undermined edges, often leading to invalidating sequelae in an endemic area.",
+            "dimensionItem": "tOpVIYrnbhk",
+            "displayFormName": "Number of new BU cases diagnosed within reporting year",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "ilJDyuqlwDC"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "UFlGxXoBrLN"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "p0NhuIUoeST"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "pcByGLGxBBP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "VqmVLwlbJLo"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS définit un cas d'ulcere de  Buruli comme toute personne présentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulcère avec des bords minces, souvent menant à des séquelles invalidantes, dans une zone d'endémie."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "IkOAkzRMm83"
+                },
+                {
+                    "id": "gNPrN6QcPl0"
+                },
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_Female_%",
+            "lastUpdated": "2020-03-31T17:13:16.460",
+            "id": "pjd3beNHprb",
+            "created": "2017-03-12T21:49:03.996",
+            "name": "BU_EPI_Female_%",
+            "shortName": "% females",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_Female_%",
+            "publicAccess": "--------",
+            "displayShortName": "% females",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% females",
+            "dimensionItem": "pjd3beNHprb",
+            "displayFormName": "% females",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "pjd3beNHprb"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pjd3beNHprb"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Femme_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Femme_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Femme_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% femmes"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Femme_%"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_U15y_%",
+            "lastUpdated": "2020-03-31T17:13:14.697",
+            "id": "hnihvm6kXLX",
+            "created": "2017-03-12T21:49:03.996",
+            "name": "BU_EPI_U15y_%",
+            "shortName": "% children under 15 years",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_U15y_%",
+            "publicAccess": "--------",
+            "displayShortName": "% children under 15 years",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% children under 15 years",
+            "dimensionItem": "hnihvm6kXLX",
+            "displayFormName": "% children under 15 years",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "hnihvm6kXLX"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hnihvm6kXLX"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_<15a_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% enfants de moins de 15 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_<15a_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% enfants de moins de 15 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% moins de 15 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% moins de 15 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% moins de 15 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_<15a_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% enfants de moins de 15 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_<15a_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% moins de 15 ans"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% enfants de moins de 15 ans"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Lab_PCRconfirmation_%",
+            "lastUpdated": "2020-03-31T17:13:02.187",
+            "id": "ijKH3KK0Etn",
+            "created": "2017-03-12T21:49:03.996",
+            "name": "BU_Lab_PCRconfirmation_%",
+            "shortName": "% PCR confirmation",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Lab_PCRconfirmation_%",
+            "publicAccess": "--------",
+            "displayShortName": "% PCR confirmation",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% PCR confirmation",
+            "dimensionItem": "ijKH3KK0Etn",
+            "displayFormName": "% PCR confirmation",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "ijKH3KK0Etn"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ijKH3KK0Etn"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des cas confirmés par PCR"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des cas confirmés par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Lab_PCRconfirmation_%"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des cas confirmés par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% confirmés par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Lab_PCRconfirmation_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% confirmés par PCR"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des cas confirmés par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% confirmés par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Lab_PCRconfirmation_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% confirmés par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Lab_PCRconfirmation_%"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Tx_ABcompletion_%",
+            "lastUpdated": "2020-03-31T17:13:10.087",
+            "id": "fCOiZOvhlYU",
+            "created": "2017-03-12T21:49:03.996",
+            "name": "BU_Tx_ABcompletion_%",
+            "shortName": "% completing antibiotic treatment",
+            "aggregationType": "AVERAGE",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Tx_ABcompletion_%",
+            "publicAccess": "--------",
+            "displayShortName": "% completing antibiotic treatment",
+            "externalAccess": false,
+            "valueType": "PERCENTAGE",
+            "formName": "% completing antibiotic treatment",
+            "dimensionItem": "fCOiZOvhlYU",
+            "displayFormName": "% completing antibiotic treatment",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "fCOiZOvhlYU"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fCOiZOvhlYU"
+                    },
+                    "dataSet": {
+                        "id": "Psf9CW4BSHM"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Tx_ABcompletude_%"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Tx_ABcompletude_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% traitement AB complété"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des patients suivant un traitement antibiotique"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des patients suivant un traitement antibiotique"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Tx_ABcompletude_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% traitement AB complété"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_Tx_ABcompletude_%"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% traitement AB complété"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des patients suivant un traitement antibiotique"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "% des patients suivant un traitement antibiotique"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "% traitement AB complété"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "code": "DEG_BU_Indicators",
+            "lastUpdated": "2018-03-15T16:51:17.401",
+            "id": "ovZIiKivfW9",
+            "created": "2017-11-16T15:26:44.337",
+            "name": "BU_Indicators",
+            "shortName": "BU_Indicators",
+            "aggregationType": "SUM",
+            "displayName": "BU_Indicators",
+            "publicAccess": "--------",
+            "displayShortName": "BU_Indicators",
+            "externalAccess": false,
+            "dimensionItem": "ovZIiKivfW9",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "Iu6HPiXVTNX"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "code": "DEG_BU_AggregatedData",
+            "lastUpdated": "2018-03-15T16:50:09.978",
+            "id": "IkOAkzRMm83",
+            "created": "2017-11-16T15:25:50.641",
+            "name": "BU_Aggregated data",
+            "shortName": "BU_Aggregated data",
+            "aggregationType": "SUM",
+            "displayName": "BU_Aggregated data",
+            "publicAccess": "--------",
+            "displayShortName": "BU_Aggregated data",
+            "externalAccess": false,
+            "dimensionItem": "IkOAkzRMm83",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "Iu6HPiXVTNX"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "code": "DEG_GHO_DE",
+            "lastUpdated": "2018-04-28T16:10:53.430",
+            "id": "gNPrN6QcPl0",
+            "created": "2017-12-07T13:02:32.364",
+            "name": "GHO",
+            "shortName": "GHO",
+            "aggregationType": "NONE",
+            "displayName": "GHO",
+            "publicAccess": "--------",
+            "displayShortName": "GHO",
+            "externalAccess": false,
+            "dimensionItem": "gNPrN6QcPl0",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "ilJDyuqlwDC"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        }
+    ],
+    "attributes": [
+        {
+            "lastUpdated": "2020-05-26T10:38:31.238",
+            "id": "x8YCHCvls4r",
+            "created": "2017-01-26T14:12:52.745",
+            "name": "Disease",
+            "code": "At_Disease",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "--------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": false,
+            "constantAttribute": false,
+            "valueType": "TEXT",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": true,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "favorite": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "displayName": "Disease",
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "externalAccess": false,
+            "programStageAttribute": false,
+            "programAttribute": true,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "optionSet": {
+                "id": "r0czxkQrRQY"
+            },
+            "translations": [],
+            "attributeValues": [],
+            "favorites": []
+        }
+    ],
+    "sections": [
+        {
+            "lastUpdated": "2019-05-25T10:52:32.357",
+            "id": "yuOz1ToZ7mR",
+            "created": "2017-03-13T15:27:27.788",
+            "name": "Age distribution",
+            "displayName": "Age distribution",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 2,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Age"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Age"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Age"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Age"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "hnihvm6kXLX"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.357",
+            "id": "lCu0Onx9YBZ",
+            "created": "2017-03-13T15:21:34.091",
+            "name": "Annual cases",
+            "displayName": "Annual cases",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 1,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Cas annuels"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Cas annuels"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Cas annuels"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Cas annuels"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "tOpVIYrnbhk"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.359",
+            "id": "aEjB04cV1Wn",
+            "created": "2017-03-13T15:25:48.973",
+            "name": "Category",
+            "displayName": "Category",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 5,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "lff6zDTvFi8"
+                },
+                {
+                    "id": "ckHbEc6qoyV"
+                },
+                {
+                    "id": "z2JQOIDlZUn"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.358",
+            "id": "cKWt05KOBMm",
+            "created": "2017-03-13T15:25:25.396",
+            "name": "Clinical presentation",
+            "displayName": "Clinical presentation",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 4,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Présentation clinique"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Présentation clinique"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Présentation clinique"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Présentation clinique"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "AD4v3ACiiXX"
+                },
+                {
+                    "id": "gUqE2t4L5UU"
+                },
+                {
+                    "id": "tMY0YnV1PHQ"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.356",
+            "id": "QBA9xJy694a",
+            "created": "2017-03-13T15:24:46.137",
+            "name": "Gender distribution",
+            "displayName": "Gender distribution",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 3,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Genre"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Genre"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Genre"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Genre"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "pjd3beNHprb"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.357",
+            "id": "gGk9TLyXQZO",
+            "created": "2017-03-13T15:26:11.163",
+            "name": "Lab",
+            "displayName": "Lab",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 6,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Laboratoire"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Laboratoire"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Laboratoire"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Laboratoire"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "ijKH3KK0Etn"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        },
+        {
+            "lastUpdated": "2019-05-25T10:52:32.358",
+            "id": "VeERzaIGC16",
+            "created": "2017-03-13T15:26:42.175",
+            "name": "Treatment",
+            "displayName": "Treatment",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 7,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "ZO0DQJePIEH"
+            },
+            "lastUpdatedBy": {
+                "id": "eK26I7dRbC4"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Traitement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Traitement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Traitement"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Traitement"
+                }
+            ],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "fCOiZOvhlYU"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": []
+        }
+    ]
+}
