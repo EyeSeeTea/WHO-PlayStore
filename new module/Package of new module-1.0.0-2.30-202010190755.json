@@ -1,0 +1,606 @@
+{
+    "package": {
+        "id": "UAEwTX0oxV3",
+        "name": "Package of new module",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "LrWrQ2OtlUl",
+            "name": "new module",
+            "instance": "http://dev2.eyeseetea.com:8086",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-10-19T06:55:08.192Z",
+        "lastUpdated": "2020-10-19T06:55:17.047Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-10-06T08:23:31.914",
+            "id": "qNtxTrp56wV",
+            "created": "2017-06-23T12:21:02.061",
+            "name": "Malaria annual data",
+            "shortName": "Malaria annual data",
+            "validCompleteOnly": false,
+            "publicAccess": "--------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 8,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "Malaria annual data",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "displayShortName": "Malaria annual data",
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "qNtxTrp56wV",
+            "mobile": false,
+            "periodType": "Yearly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "FRbgzTZ74Hh"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cOVhTyW8zN6"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UH47dKFqTRK"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "dFaBg0HpoIL"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NywGy6uMS5r"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tpz77FcntKx"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EpyvZBsqMmM"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": [
+                {
+                    "id": "E4h5WBOg71F"
+                }
+            ]
+        }
+    ],
+    "dataElements": [
+        {
+            "code": "GEN_EXT_FUND",
+            "lastUpdated": "2020-10-06T08:23:31.651",
+            "id": "tpz77FcntKx",
+            "created": "2016-03-10T08:24:47.354",
+            "name": "External funding",
+            "shortName": "External funding",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "External funding",
+            "publicAccess": "--------",
+            "displayShortName": "External funding",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "External funding",
+            "dimensionItem": "tpz77FcntKx",
+            "displayFormName": "External funding",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "tpz77FcntKx"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "cDz6fWn4n7M"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "GEN_FUND_NEED",
+            "lastUpdated": "2020-10-06T08:23:31.654",
+            "id": "FRbgzTZ74Hh",
+            "created": "2016-03-18T08:47:31.487",
+            "name": "Funding need (USD)",
+            "shortName": "Funding need (USD)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "Funding need (USD)",
+            "publicAccess": "--------",
+            "displayShortName": "Funding need (USD)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Funding need (USD)",
+            "dimensionItem": "FRbgzTZ74Hh",
+            "displayFormName": "Funding need (USD)",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "FRbgzTZ74Hh"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "cDz6fWn4n7M"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "GEN_DOMESTIC_FUND",
+            "lastUpdated": "2020-10-06T08:23:31.656",
+            "id": "EpyvZBsqMmM",
+            "created": "2016-03-10T08:20:32.830",
+            "name": "GEN - Domestic funding",
+            "shortName": "Domestic funding",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "GEN - Domestic funding",
+            "publicAccess": "--------",
+            "displayShortName": "Domestic funding",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Domestic funding",
+            "dimensionItem": "EpyvZBsqMmM",
+            "displayFormName": "Domestic funding",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "EpyvZBsqMmM"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "cDz6fWn4n7M"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "MAL_POP_TOTAL",
+            "lastUpdated": "2020-10-06T08:23:31.657",
+            "id": "dFaBg0HpoIL",
+            "created": "2017-01-17T18:23:12.080",
+            "name": "GEN - Population with malaria age disaggregation",
+            "shortName": "Population with malaria disagg",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "GEN - Population with malaria age disaggregation",
+            "publicAccess": "--------",
+            "description": "Total population for a given level.",
+            "displayShortName": "Population with malaria disagg",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Population (total)",
+            "displayDescription": "Total population for a given level.",
+            "dimensionItem": "dFaBg0HpoIL",
+            "displayFormName": "Population (total)",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "BwnnrV1AkNj"
+            },
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "dFaBg0HpoIL"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "gDwHOp9bAdJ"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "MAL_LLIN_DISTR",
+            "lastUpdated": "2020-10-06T08:23:31.658",
+            "id": "UH47dKFqTRK",
+            "created": "2016-05-09T07:10:58.061",
+            "name": "MAL - Long lasting insecticide treated nets distributed",
+            "shortName": "LLINs distributed",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "MAL - Long lasting insecticide treated nets distributed",
+            "publicAccess": "--------",
+            "description": "Number of long-lasting insecticidal nets (LLINs) recieved",
+            "displayShortName": "LLINs distributed",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of LLINs distributed",
+            "displayDescription": "Number of long-lasting insecticidal nets (LLINs) recieved",
+            "dimensionItem": "UH47dKFqTRK",
+            "displayFormName": "Number of LLINs distributed",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "UH47dKFqTRK"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "tbQsD5xgWDH"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "MAL_PEOPLE_PROT_BY_IRS",
+            "lastUpdated": "2020-10-06T08:23:31.660",
+            "id": "NywGy6uMS5r",
+            "created": "2016-05-09T07:10:59.202",
+            "name": "MAL - People protected by IRS",
+            "shortName": "People protected by IRS",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "MAL - People protected by IRS",
+            "publicAccess": "--------",
+            "description": "Number of people at risk living in households that received indoor-residual spraying (IRS)",
+            "displayShortName": "People protected by IRS",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "displayDescription": "Number of people at risk living in households that received indoor-residual spraying (IRS)",
+            "dimensionItem": "NywGy6uMS5r",
+            "displayFormName": "MAL - People protected by IRS",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "NywGy6uMS5r"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "tbQsD5xgWDH"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "MAL_POP_AT_RISK",
+            "lastUpdated": "2020-10-06T08:23:31.662",
+            "id": "cOVhTyW8zN6",
+            "created": "2015-09-14T08:22:10.000",
+            "name": "MAL - Population at risk for malaria",
+            "shortName": "Population at risk for malaria",
+            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
+            "domainType": "AGGREGATE",
+            "displayName": "MAL - Population at risk for malaria",
+            "publicAccess": "--------",
+            "description": "Population living in areas where malaria transmission is possible, i.e. population living in either endemic area, active foci, non-active and cleared-up foci",
+            "displayShortName": "Population at risk for malaria",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Population at risk",
+            "displayDescription": "Population living in areas where malaria transmission is possible, i.e. population living in either endemic area, active foci, non-active and cleared-up foci",
+            "dimensionItem": "cOVhTyW8zN6",
+            "displayFormName": "Population at risk",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "cOVhTyW8zN6"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [
+                {
+                    "id": "ri242cU0Sm5"
+                },
+                {
+                    "id": "O3Y4zr16OCX"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "code": "MAL",
+            "lastUpdated": "2020-10-06T08:23:31.806",
+            "id": "ri242cU0Sm5",
+            "created": "2017-06-23T14:28:30.129",
+            "name": "Malaria",
+            "shortName": "Malaria",
+            "aggregationType": "SUM",
+            "displayName": "Malaria",
+            "publicAccess": "--------",
+            "displayShortName": "Malaria",
+            "externalAccess": false,
+            "dimensionItem": "ri242cU0Sm5",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-06T08:23:31.809",
+            "id": "cDz6fWn4n7M",
+            "created": "2017-06-01T10:36:53.453",
+            "name": "Malaria other",
+            "shortName": "Malaria other",
+            "aggregationType": "SUM",
+            "displayName": "Malaria other",
+            "publicAccess": "--------",
+            "displayShortName": "Malaria other",
+            "externalAccess": false,
+            "dimensionItem": "cDz6fWn4n7M",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "code": "POP",
+            "lastUpdated": "2020-10-06T08:23:31.810",
+            "id": "gDwHOp9bAdJ",
+            "created": "2017-06-01T12:10:04.132",
+            "name": "Population estimates",
+            "shortName": "Population estimates",
+            "aggregationType": "SUM",
+            "displayName": "Population estimates",
+            "publicAccess": "--------",
+            "displayShortName": "Population estimates",
+            "externalAccess": false,
+            "dimensionItem": "gDwHOp9bAdJ",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-06T08:23:31.811",
+            "id": "tbQsD5xgWDH",
+            "created": "2016-04-04T14:32:16.529",
+            "name": "Malaria interventions",
+            "shortName": "Malaria interventions",
+            "aggregationType": "SUM",
+            "displayName": "Malaria interventions",
+            "publicAccess": "--------",
+            "displayShortName": "Malaria interventions",
+            "externalAccess": false,
+            "dimensionItem": "tbQsD5xgWDH",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-06T08:23:31.813",
+            "id": "O3Y4zr16OCX",
+            "created": "2016-04-04T14:32:16.464",
+            "name": "Malaria surveillance",
+            "shortName": "Malaria surveillance",
+            "aggregationType": "SUM",
+            "displayName": "Malaria surveillance",
+            "publicAccess": "--------",
+            "displayShortName": "Malaria surveillance",
+            "externalAccess": false,
+            "dimensionItem": "O3Y4zr16OCX",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        }
+    ]
+}
