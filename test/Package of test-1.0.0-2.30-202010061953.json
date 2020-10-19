@@ -1,0 +1,77 @@
+{
+    "package": {
+        "id": "jGfaIaLkKOe",
+        "name": "Package of test",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "XBmYSGrhgo7",
+            "name": "test",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "PG2izvccrYM",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-10-06T18:53:59.488Z",
+        "lastUpdated": "2020-10-06T18:54:03.014Z",
+        "lastUpdatedBy": {
+            "id": "PG2izvccrYM",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-10-06T08:24:38.682",
+            "id": "imOaOy36Cih",
+            "created": "2020-10-06T08:24:38.682",
+            "name": "test",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 0,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "test",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "imOaOy36Cih",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "dataSetElements": [],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": [
+                {
+                    "id": "a9ssuhHPhUQ"
+                }
+            ]
+        }
+    ]
+}
