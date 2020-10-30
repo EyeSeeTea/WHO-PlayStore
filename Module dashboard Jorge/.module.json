@@ -1,0 +1,9 @@
+{
+    "id": "VxebiJr4uNh",
+    "name": "Module dashboard Jorge",
+    "instance": "http://dev2.eyeseetea.com:8084",
+    "department": {
+        "name": "ETA administrators",
+        "id": "Urx6COfeLkm"
+    }
+}
