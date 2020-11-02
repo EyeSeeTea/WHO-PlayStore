@@ -1,0 +1,9 @@
+{
+    "id": "Mb04S22Ti4b",
+    "name": "Test 3",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "Malaria access",
+        "id": "ZXEVDM9XRea"
+    }
+}
