@@ -1,0 +1,187 @@
+{
+    "package": {
+        "id": "zed2hpYJSJ4",
+        "name": "Package of test mapping",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.3",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "y3F5jq134Xv",
+            "name": "test mapping",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-03T21:05:35.030Z",
+        "lastUpdated": "2020-11-03T21:05:38.101Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-11-03T18:42:43.062",
+            "id": "vIqNn2HnjMy",
+            "created": "2020-11-03T18:42:43.062",
+            "name": "test mapping",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 0,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "test mapping",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "vIqNn2HnjMy",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "jIrseIMc0Eo"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "GPKPt4a2wAB"
+                }
+            ],
+            "sections": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "lastUpdated": "2020-10-06T07:15:33.366",
+            "id": "jIrseIMc0Eo",
+            "created": "2020-10-06T07:13:41.948",
+            "name": "test",
+            "shortName": "test",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "test",
+            "publicAccess": "rw------",
+            "displayShortName": "test",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "jIrseIMc0Eo",
+            "displayFormName": "test",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "jIrseIMc0Eo"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "indicators": [
+        {
+            "lastUpdated": "2020-11-03T18:41:32.265",
+            "id": "GPKPt4a2wAB",
+            "created": "2020-11-03T18:41:32.265",
+            "name": "test",
+            "shortName": "test",
+            "displayName": "test",
+            "publicAccess": "rw------",
+            "displayShortName": "test",
+            "externalAccess": false,
+            "denominatorDescription": "den",
+            "numeratorDescription": "num",
+            "dimensionItem": "GPKPt4a2wAB",
+            "numerator": "#{SXGjaEobp6V.oPcWGgS2Liz}",
+            "denominator": "#{BjDrgVrkBI3.hF0pQZIn6Ch}",
+            "annualized": false,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [],
+            "legendSets": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "created": "2015-03-23T01:41:28.852",
+            "lastUpdated": "2019-12-31T18:55:12.533",
+            "name": "Percentage",
+            "id": "hmSnCXmLYwt",
+            "displayName": "Percentage",
+            "externalAccess": false,
+            "number": false,
+            "factor": 100,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "vUeLeQMSwhN"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                }
+            ]
+        }
+    ]
+}
