@@ -1,0 +1,9 @@
+{
+    "id": "gmGOi5aPx9E",
+    "name": "testpackagegeneration",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "Malaria access",
+        "id": "ZXEVDM9XRea"
+    }
+}
