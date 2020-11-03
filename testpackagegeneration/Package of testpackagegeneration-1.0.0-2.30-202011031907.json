@@ -1,0 +1,66 @@
+{
+    "package": {
+        "id": "U7VxaIBGe8M",
+        "name": "Package of testpackagegeneration",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "gmGOi5aPx9E",
+            "name": "testpackagegeneration",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-03T19:07:08.080Z",
+        "lastUpdated": "2020-11-03T19:07:10.781Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-10-30T11:51:34.771",
+            "id": "qNtxTrp56wV",
+            "created": "2017-06-23T12:21:02.061",
+            "name": "Malaria annual data",
+            "shortName": "Malaria annual data",
+            "validCompleteOnly": false,
+            "publicAccess": "--------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 11,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "Malaria annual data",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "displayShortName": "Malaria annual data",
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "qNtxTrp56wV",
+            "mobile": false,
+            "periodType": "Yearly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "dataInputPeriods": [],
+            "legendSets": []
+        }
+    ]
+}
