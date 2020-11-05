@@ -1,0 +1,9 @@
+{
+    "id": "rIFpEAoKrPb",
+    "name": "test mapping 124",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "Malaria access",
+        "id": "ZXEVDM9XRea"
+    }
+}
