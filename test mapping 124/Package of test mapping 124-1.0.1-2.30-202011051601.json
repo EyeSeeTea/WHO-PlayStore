@@ -1,0 +1,753 @@
+{
+    "package": {
+        "id": "bbMDIfOwDMU",
+        "name": "Package of test mapping 124",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.1",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "rIFpEAoKrPb",
+            "name": "test mapping 124",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-05T16:01:33.830Z",
+        "lastUpdated": "2020-11-05T16:01:38.019Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-11-05T16:01:18.975",
+            "id": "tNedeQ3l0bD",
+            "created": "2020-11-05T15:55:10.719",
+            "name": "test mapping 124",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 1,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "test mapping 124",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "tNedeQ3l0bD",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "MyFvrgYXU6R"
+                    },
+                    "dataSet": {
+                        "id": "tNedeQ3l0bD"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "Ie74jJwBrO8"
+                }
+            ],
+            "sections": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "lastUpdated": "2020-11-05T15:59:51.911",
+            "id": "MyFvrgYXU6R",
+            "created": "2020-11-05T15:53:15.178",
+            "name": "test2",
+            "shortName": "test2",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "test2",
+            "publicAccess": "rw------",
+            "displayShortName": "test2",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "MyFvrgYXU6R",
+            "displayFormName": "test2",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "BwnnrV1AkNj"
+            },
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "MyFvrgYXU6R"
+                    },
+                    "dataSet": {
+                        "id": "tNedeQ3l0bD"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "categoryCombos": [
+        {
+            "created": "2015-09-14T08:48:50.928",
+            "lastUpdated": "2019-10-09T23:26:36.837",
+            "name": "Age (malaria)",
+            "id": "BwnnrV1AkNj",
+            "dataDimensionType": "DISAGGREGATION",
+            "displayName": "Age (malaria)",
+            "publicAccess": "--------",
+            "externalAccess": false,
+            "isDefault": false,
+            "skipTotal": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "rtfSaMjPyq6"
+                },
+                {
+                    "id": "hF0pQZIn6Ch"
+                },
+                {
+                    "id": "oPcWGgS2Liz"
+                }
+            ],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "mFoasCYViMW"
+                }
+            ]
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "lastUpdated": "2019-10-09T23:26:36.985",
+            "id": "oPcWGgS2Liz",
+            "created": "2017-06-02T11:03:03.291",
+            "name": "0-4 years",
+            "shortName": "0-4 years",
+            "displayName": "0-4 years",
+            "displayShortName": "0-4 years",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "oPcWGgS2Liz",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "BwnnrV1AkNj"
+            },
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-09T23:26:36.985",
+            "id": "hF0pQZIn6Ch",
+            "created": "2017-06-02T11:03:03.298",
+            "name": "15+ years",
+            "shortName": "15+ years",
+            "displayName": "15+ years",
+            "displayShortName": "15+ years",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "hF0pQZIn6Ch",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "BwnnrV1AkNj"
+            },
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "wTpH7wugXzZ"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-09T23:26:36.985",
+            "id": "rtfSaMjPyq6",
+            "created": "2017-06-02T11:03:03.295",
+            "name": "5-14 years",
+            "shortName": "5-14 years",
+            "displayName": "5-14 years",
+            "displayShortName": "5-14 years",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "rtfSaMjPyq6",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "BwnnrV1AkNj"
+            },
+            "lastUpdatedBy": {
+                "id": "PG2izvccrYM"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "pa0cY66MrG6"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "code": "P0Y--P5Y",
+            "lastUpdated": "2020-10-20T11:26:04.417",
+            "id": "UPvKbcqTEY3",
+            "created": "2016-02-08T12:52:19.692",
+            "name": "0-4 years",
+            "shortName": "0-4 y",
+            "displayName": "0-4 years",
+            "publicAccess": "--------",
+            "displayShortName": "0-4 y",
+            "externalAccess": false,
+            "dimensionItem": "UPvKbcqTEY3",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "0-4 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "0-4"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "mFoasCYViMW"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "b449dBrOSFK"
+                },
+                {
+                    "id": "oPcWGgS2Liz"
+                },
+                {
+                    "id": "t5FrQ0GTvGf"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "P15Y--P999Y",
+            "lastUpdated": "2020-10-20T11:26:04.418",
+            "id": "wTpH7wugXzZ",
+            "created": "2016-02-15T15:46:58.933",
+            "name": "15+ years",
+            "shortName": "15+ y",
+            "displayName": "15+ years",
+            "publicAccess": "--------",
+            "displayShortName": "15+ y",
+            "externalAccess": false,
+            "dimensionItem": "wTpH7wugXzZ",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+ ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "15+"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "mFoasCYViMW"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "AroSt3y4ir0"
+                },
+                {
+                    "id": "kQBGXKMwoqR"
+                },
+                {
+                    "id": "hF0pQZIn6Ch"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "SqvDE9fTeGl"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "P5Y--P15Y",
+            "lastUpdated": "2020-10-20T11:26:04.418",
+            "id": "pa0cY66MrG6",
+            "created": "2016-02-08T12:52:32.597",
+            "name": "5-14 years",
+            "shortName": "5-14 y",
+            "displayName": "5-14 years",
+            "publicAccess": "--------",
+            "displayShortName": "5-14 y",
+            "externalAccess": false,
+            "dimensionItem": "pa0cY66MrG6",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "5-14 ans"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "mFoasCYViMW"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "rtfSaMjPyq6"
+                },
+                {
+                    "id": "bWFxj7MF1qR"
+                },
+                {
+                    "id": "j21YQgQ9GzP"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "V9t81g7Wspa"
+                }
+            ],
+            "legendSets": []
+        }
+    ],
+    "categories": [
+        {
+            "lastUpdated": "2020-10-20T11:26:04.473",
+            "id": "mFoasCYViMW",
+            "created": "2015-09-14T08:27:04.761",
+            "name": "Age (malaria)",
+            "shortName": "Age (malaria)",
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionType": "CATEGORY",
+            "displayName": "Age (malaria)",
+            "publicAccess": "--------",
+            "displayShortName": "Age (malaria)",
+            "externalAccess": false,
+            "dimension": "mFoasCYViMW",
+            "allItems": false,
+            "dataDimension": true,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "IvYR8mc6prX"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "pa0cY66MrG6"
+                },
+                {
+                    "id": "wTpH7wugXzZ"
+                }
+            ],
+            "attributeValues": [],
+            "items": [
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "pa0cY66MrG6"
+                },
+                {
+                    "id": "wTpH7wugXzZ"
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "lastUpdated": "2020-11-05T16:00:52.967",
+            "id": "Ie74jJwBrO8",
+            "created": "2020-11-05T16:00:52.967",
+            "name": "indicator mapping 124",
+            "shortName": "indicator mapping 124",
+            "displayName": "indicator mapping 124",
+            "publicAccess": "rw------",
+            "displayShortName": "indicator mapping 124",
+            "externalAccess": false,
+            "denominatorDescription": "den",
+            "numeratorDescription": "num",
+            "dimensionItem": "Ie74jJwBrO8",
+            "numerator": "#{MyFvrgYXU6R.oPcWGgS2Liz}",
+            "denominator": "1",
+            "annualized": false,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [],
+            "legendSets": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "created": "2015-03-23T01:41:28.852",
+            "lastUpdated": "2020-11-05T15:40:29.465",
+            "name": "Percentage",
+            "id": "hmSnCXmLYwt",
+            "displayName": "Percentage",
+            "externalAccess": false,
+            "number": false,
+            "factor": 100,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Pourcentage"
+                }
+            ]
+        }
+    ]
+}
