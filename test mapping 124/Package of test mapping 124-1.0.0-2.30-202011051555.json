@@ -1,0 +1,122 @@
+{
+    "package": {
+        "id": "lor0LXY43zM",
+        "name": "Package of test mapping 124",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "rIFpEAoKrPb",
+            "name": "test mapping 124",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-05T15:55:58.959Z",
+        "lastUpdated": "2020-11-05T15:56:04.048Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-11-05T15:55:10.719",
+            "id": "tNedeQ3l0bD",
+            "created": "2020-11-05T15:55:10.719",
+            "name": "test mapping 124",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 0,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "test mapping 124",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "tNedeQ3l0bD",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "MyFvrgYXU6R"
+                    },
+                    "dataSet": {
+                        "id": "tNedeQ3l0bD"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "lastUpdated": "2020-11-05T15:53:15.178",
+            "id": "MyFvrgYXU6R",
+            "created": "2020-11-05T15:53:15.178",
+            "name": "test2",
+            "shortName": "test2",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "test2",
+            "publicAccess": "rw------",
+            "displayShortName": "test2",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "MyFvrgYXU6R",
+            "displayFormName": "test2",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "MyFvrgYXU6R"
+                    },
+                    "dataSet": {
+                        "id": "tNedeQ3l0bD"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ]
+}
