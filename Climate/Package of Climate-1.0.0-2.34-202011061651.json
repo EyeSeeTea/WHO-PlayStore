@@ -1,0 +1,569 @@
+{
+    "package": {
+        "id": "c2NoRkgkoii",
+        "name": "Package of Climate",
+        "deleted": false,
+        "description": "test",
+        "version": "1.0.0",
+        "dhisVersion": "2.34",
+        "module": {
+            "id": "G17HISnRzg1",
+            "name": "Climate",
+            "instance": "http://localhost:8080",
+            "department": {
+                "name": "GMP/VCR",
+                "id": "OEHAIvnHRxz"
+            }
+        },
+        "user": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-11-06T15:51:12.029Z",
+        "lastUpdated": "2020-11-06T15:52:37.869Z",
+        "lastUpdatedBy": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "rayEGGqQwIC",
+            "name": "Climate factors",
+            "mobile": false,
+            "created": "2019-12-02T10:47:27.013",
+            "version": 20,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Climate data",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Daily",
+            "timelyDays": 15,
+            "description": "Analysis of relation between climate factors and diseases",
+            "displayName": "Climate factors",
+            "lastUpdated": "2020-10-23T19:05:44.810",
+            "skipOffline": false,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "rayEGGqQwIC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "c24Y5UNjXyj"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "uWYGA1xiwuZ"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "klaKtwaWAvG"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "RSJpUZqMoxC"
+                    }
+                }
+            ],
+            "displayFormName": "Climate factors",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Climate data",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "organisationUnits": [
+                {
+                    "id": "Mh3MouoB8Qw"
+                },
+                {
+                    "id": "mfqO2fplCfN"
+                },
+                {
+                    "id": "nCliAIghgvS"
+                },
+                {
+                    "id": "yPn12R5naqJ"
+                },
+                {
+                    "id": "WnweWTOA3Bz"
+                },
+                {
+                    "id": "N6BJgpCaliD"
+                },
+                {
+                    "id": "b6hwG8JT8tT"
+                },
+                {
+                    "id": "CImZjlYAIJR"
+                },
+                {
+                    "id": "q53ccn5xMtx"
+                },
+                {
+                    "id": "bGOQFhjNFr5"
+                },
+                {
+                    "id": "EhsigulLsGJ"
+                },
+                {
+                    "id": "eAu3YJkAgeJ"
+                },
+                {
+                    "id": "aOtr0GZoOQz"
+                },
+                {
+                    "id": "gRN0TTjmHD1"
+                },
+                {
+                    "id": "mOSo6aJThIA"
+                },
+                {
+                    "id": "v6aN4qeSTDw"
+                },
+                {
+                    "id": "xZdOeoEF94v"
+                },
+                {
+                    "id": "ubwjioysTXi"
+                },
+                {
+                    "id": "Cd4QQzp6I5B"
+                },
+                {
+                    "id": "aU8ZGLi2cxk"
+                },
+                {
+                    "id": "s6odlJzLV31"
+                },
+                {
+                    "id": "SGUE8uREw3t"
+                },
+                {
+                    "id": "CdvoSXdS4Ju"
+                },
+                {
+                    "id": "myALBrKK8Hd"
+                },
+                {
+                    "id": "uVcYpFJ3BvZ"
+                },
+                {
+                    "id": "IJpJTOqnSb0"
+                },
+                {
+                    "id": "n642ZwFasgl"
+                },
+                {
+                    "id": "PPZZlTrHdwT"
+                },
+                {
+                    "id": "Ky6ZAJvX5TN"
+                },
+                {
+                    "id": "rRpCtenjMc6"
+                },
+                {
+                    "id": "ObvvddcAtQO"
+                },
+                {
+                    "id": "xAWooM3sWV0"
+                },
+                {
+                    "id": "X65QVdbS7x7"
+                },
+                {
+                    "id": "ByqsEM8ZsAz"
+                },
+                {
+                    "id": "Kf6BN5I6pLV"
+                },
+                {
+                    "id": "LUmcbhoFMzd"
+                },
+                {
+                    "id": "dKu76PoXrQX"
+                },
+                {
+                    "id": "azyqPDU2pf3"
+                },
+                {
+                    "id": "kbv9iwCpokl"
+                },
+                {
+                    "id": "tTtUrzNhDg3"
+                },
+                {
+                    "id": "lrGqnF0ZzM6"
+                },
+                {
+                    "id": "GlO0dKjdRxq"
+                },
+                {
+                    "id": "W9zb3Yva3Va"
+                },
+                {
+                    "id": "emI2bZvcq9K"
+                },
+                {
+                    "id": "gEGjk21yljW"
+                },
+                {
+                    "id": "VlbxZJ7wJmz"
+                },
+                {
+                    "id": "yh3NwdKA8LR"
+                },
+                {
+                    "id": "iqcwksAb1aU"
+                },
+                {
+                    "id": "gfHm4sYgi0m"
+                },
+                {
+                    "id": "AZzwWDnJqdp"
+                },
+                {
+                    "id": "kVaFnEaWZP0"
+                },
+                {
+                    "id": "FwdnfcOSD2M"
+                },
+                {
+                    "id": "BUzITQONG0i"
+                },
+                {
+                    "id": "v47ZzRTBfxo"
+                },
+                {
+                    "id": "eD1afIl9y3e"
+                },
+                {
+                    "id": "xMvAcyWPxaD"
+                },
+                {
+                    "id": "N5TdlbdqJMA"
+                },
+                {
+                    "id": "yLobSYtGPEj"
+                },
+                {
+                    "id": "DmR19k293Hr"
+                },
+                {
+                    "id": "UlUWpRwY0iz"
+                },
+                {
+                    "id": "J0CiQg4Pnfb"
+                },
+                {
+                    "id": "Ul76hFnnTrb"
+                },
+                {
+                    "id": "KZCAvf7PtMa"
+                },
+                {
+                    "id": "bSIYJFk5Pzz"
+                },
+                {
+                    "id": "LlqK7AmeALh"
+                },
+                {
+                    "id": "qJkTwo3byYA"
+                },
+                {
+                    "id": "Jn8YvN9eaR5"
+                }
+            ],
+            "validCompleteOnly": false,
+            "displayDescription": "Analysis of relation between climate factors and diseases",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "uWYGA1xiwuZ",
+            "code": "DEA_CC_Rainfall",
+            "name": "CC - Rainfall",
+            "created": "2019-12-02T10:40:32.727",
+            "favorite": false,
+            "formName": "Rainfall",
+            "favorites": [],
+            "shortName": "Rainfall",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Rainfall for a specific day",
+            "displayName": "CC - Rainfall",
+            "lastUpdated": "2020-10-23T19:03:02.526",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "uWYGA1xiwuZ",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "uWYGA1xiwuZ"
+                    }
+                }
+            ],
+            "displayFormName": "Rainfall",
+            "displayShortName": "Rainfall",
+            "aggregationLevels": [
+                5
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Rainfall for a specific day"
+        },
+        {
+            "id": "RSJpUZqMoxC",
+            "code": "DEA_CC_Temperature",
+            "name": "CC - Temperature",
+            "created": "2019-12-02T10:39:11.765",
+            "favorite": false,
+            "formName": "Temperature",
+            "favorites": [],
+            "shortName": "Temperature",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature",
+            "lastUpdated": "2020-10-23T19:03:02.522",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "RSJpUZqMoxC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "RSJpUZqMoxC"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature",
+            "displayShortName": "Temperature",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "c24Y5UNjXyj",
+            "code": "DEA_CC_temperature_max",
+            "name": "CC - Temperature max",
+            "created": "2020-01-17T19:25:00.986",
+            "favorite": false,
+            "formName": "Temperature up",
+            "favorites": [],
+            "shortName": "Temperature max",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature max",
+            "lastUpdated": "2020-10-23T19:03:02.528",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "c24Y5UNjXyj",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "c24Y5UNjXyj"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature up",
+            "displayShortName": "Temperature max",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "klaKtwaWAvG",
+            "code": "DEA_CC_temperature_min",
+            "name": "CC - Temperature min",
+            "created": "2020-01-17T19:24:46.214",
+            "favorite": false,
+            "formName": "Temperature down",
+            "favorites": [],
+            "shortName": "Temperature min",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature min",
+            "lastUpdated": "2020-10-23T19:03:02.527",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "klaKtwaWAvG",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "klaKtwaWAvG"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature down",
+            "displayShortName": "Temperature min",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        }
+    ],
+    "visualizations": [],
+    "dataElementGroups": [
+        {
+            "id": "aMpkgOgq9gc",
+            "name": "Climate Change",
+            "created": "2019-12-02T10:54:31.431",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Climate Change",
+            "legendSets": [],
+            "displayName": "Climate Change",
+            "lastUpdated": "2020-10-23T19:03:02.590",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "aMpkgOgq9gc",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate Change",
+            "displayShortName": "Climate Change",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        },
+        {
+            "id": "mK2oQeHvdm5",
+            "name": "Climate Change - Malaria",
+            "created": "2019-12-17T12:14:19.030",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "CC-MAL",
+            "legendSets": [],
+            "displayName": "Climate Change - Malaria",
+            "lastUpdated": "2020-10-23T19:03:02.589",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "mK2oQeHvdm5",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate Change - Malaria",
+            "displayShortName": "CC-MAL",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        }
+    ]
+}
