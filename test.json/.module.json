@@ -1,0 +1,9 @@
+{
+    "id": "Eh2jylFT5lr",
+    "name": "test.json",
+    "instance": "http://dev2.eyeseetea.com:8084",
+    "department": {
+        "name": "MAL_AFRO",
+        "id": "wU7MKFPOYjs"
+    }
+}
