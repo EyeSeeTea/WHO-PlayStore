@@ -1,0 +1,4433 @@
+{
+    "package": {
+        "id": "rGEStmo2QDG",
+        "name": "Package of testtestets",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0-taja",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "rmmr6R1ZfB5",
+            "name": "testtestets",
+            "instance": "http://dev2.eyeseetea.com:8084",
+            "department": {
+                "name": "HEP Regions",
+                "id": "bN5v47OSQ6A"
+            }
+        },
+        "user": {
+            "id": "H4atNsEuKxP",
+            "name": "Foche Ignacio"
+        },
+        "created": "2020-11-06T12:49:02.420Z",
+        "lastUpdated": "2020-11-06T12:49:14.052Z",
+        "lastUpdatedBy": {
+            "id": "H4atNsEuKxP",
+            "name": "Foche Ignacio"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2020-11-01T21:26:01.546",
+            "id": "NePI9W0zSH5",
+            "created": "2020-08-27T10:09:42.313",
+            "name": "BU - minimum aggregated data_Annual_Disaggregated",
+            "shortName": "BU - minimum aggregated data_Annual_Disaggregated",
+            "code": "DS_BU_minimum aggregated data_annual_disaggregated",
+            "validCompleteOnly": false,
+            "publicAccess": "--------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "SECTION",
+            "version": 21,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "BU - minimum aggregated data_Annual_Disaggregated",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": true,
+            "displayShortName": "BU - minimum aggregated data_Annual_Disaggregated",
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": true,
+            "dimensionItem": "NePI9W0zSH5",
+            "mobile": false,
+            "periodType": "Yearly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "wQQ4Y0bee1x"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WF3jOySL1Hg"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wPbGvMvW7dj"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VKA517j01KY"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "srb0N3z6LA0"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OspZ6vLczQt"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "saBRBD6j7Sx"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IjrtWEc8Oei"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire est le formulaire que les programmes nationaux de contr�le de l'ulc�re de Buruli doivent utiliser pour rapporter annuellement les donn�es aggr�g�es cl�s concernant l'UB. Il a �t� r�vis� en 2020 pour inclure la stratification des donn�es en fonciton du statut des cas (suspect versus confirm�)."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB - Donn�es aggr�g�es minimum_Annuel_D�saggr�g�es"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB - Donn?es aggr?g?es minimum_Annuel_D?saggr?g?es"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Ce formulaire est le formulaire que les programmes nationaux de contr?le de l'ulc?re de Buruli doivent utiliser pour rapporter annuellement les donn?es aggr?g?es cl?s concernant l'UB. Il a ?t? r?vis? en 2020 pour inclure la stratification des donn?es en fonciton du statut des cas (suspect versus confirm?)."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB - Donn�es aggr�g�es minimum_Annuel_D�saggr�g�es"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "UB - Donn?es aggr?g?es minimum_Annuel_D?saggr?g?es"
+                }
+            ],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "GPvmApGFXyY"
+                },
+                {
+                    "id": "cXkTPSL2SLr"
+                },
+                {
+                    "id": "RKQ3cELvL1d"
+                },
+                {
+                    "id": "w2xRISHNOcX"
+                },
+                {
+                    "id": "Ob8WKsIKq2X"
+                },
+                {
+                    "id": "NGA6cHWAHK2"
+                },
+                {
+                    "id": "UZy7m1zTSon"
+                },
+                {
+                    "id": "fwarmKQDCQv"
+                },
+                {
+                    "id": "MK10oXRHoG4"
+                },
+                {
+                    "id": "VbNFp25dBVF"
+                },
+                {
+                    "id": "UBHvHs7yeEB"
+                },
+                {
+                    "id": "ltOrgZOhGgP"
+                },
+                {
+                    "id": "ErUxqSaJPlO"
+                },
+                {
+                    "id": "xUlqhQ8Qluu"
+                },
+                {
+                    "id": "dn8xvrDvKqT"
+                }
+            ],
+            "sections": [
+                {
+                    "id": "YDwjp71Iy55"
+                },
+                {
+                    "id": "N0dgtWruSrh"
+                },
+                {
+                    "id": "FZsFgqGNQtA"
+                },
+                {
+                    "id": "cQ4CjHFGDxz"
+                },
+                {
+                    "id": "wvc2iV1ww79"
+                }
+            ],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "code": "BU_Cl_Cat_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.992",
+            "id": "srb0N3z6LA0",
+            "created": "2020-08-27T09:32:16.806",
+            "name": "BU_Cl_Cat_Disagg",
+            "shortName": "# BU cases by category (disaggregated)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_Cat_Disagg",
+            "publicAccess": "rw------",
+            "description": "Category I: A single lesion 5cm or less / Category II: A single lesion 5-15cm / Category III: A single lesion more than 15 cm or multiple lesions or lesions at critical sites or osteomyelitis",
+            "displayShortName": "# BU cases by category (disaggregated)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases by category",
+            "displayDescription": "Category I: A single lesion 5cm or less / Category II: A single lesion 5-15cm / Category III: A single lesion more than 15 cm or multiple lesions or lesions at critical sites or osteomyelitis",
+            "dimensionItem": "srb0N3z6LA0",
+            "displayFormName": "Number of new BU cases by category",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "srb0N3z6LA0"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_CL_JointLim_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.992",
+            "id": "OspZ6vLczQt",
+            "created": "2020-08-27T09:54:01.855",
+            "name": "BU_Cl_JointLim_Disagg",
+            "shortName": "# BU cases with limitation of movement (disagg)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_JointLim_Disagg",
+            "publicAccess": "rw------",
+            "displayShortName": "# BU cases with limitation of movement (disagg)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases with limitation of movement at diagnosis",
+            "dimensionItem": "OspZ6vLczQt",
+            "displayFormName": "Number of new BU cases with limitation of movement at diagnosis",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "OspZ6vLczQt"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB avec limitation de mouvement (desagg)"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas d'ulcere de Buruli avec limitation de mouvement au diagnostic"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB avec limitation de mouvement (desagg)"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas d'ulcere de Buruli avec limitation de mouvement au diagnostic"
+                }
+            ],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_CL_LowLimb_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.992",
+            "id": "WF3jOySL1Hg",
+            "created": "2020-08-27T12:06:04.072",
+            "name": "BU_Cl_LowLimb_Disagg",
+            "shortName": "# BU cases with lesions on lower limbs (disagg)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_LowLimb_Disagg",
+            "publicAccess": "rw------",
+            "displayShortName": "# BU cases with lesions on lower limbs (disagg)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases with lesions on lower limbs at diagnosis",
+            "dimensionItem": "WF3jOySL1Hg",
+            "displayFormName": "Number of new BU cases with lesions on lower limbs at diagnosis",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "WF3jOySL1Hg"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB presentant une limitation du mouvement au diagnostic"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB presentant une limitation du mouvement au diagnostic"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# nouveaux cas d'UB avec limitation du mouvement"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# nouveaux cas d'UB avec limitation du mouvement"
+                }
+            ],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Cl_Ulcer_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.992",
+            "id": "wQQ4Y0bee1x",
+            "created": "2020-08-27T09:56:01.958",
+            "name": "BU_Cl_Ulcer_Disagg",
+            "shortName": "# BU cases with ulcerative lesions (disaggregated)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Cl_Ulcer_Disagg",
+            "publicAccess": "rw------",
+            "description": "An ulcer is a painless skin lesion characterized by a necrotic center, undermined edges and oedematous skin. ",
+            "displayShortName": "# BU cases with ulcerative lesions (disaggregated)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases with ulcerative lesions",
+            "displayDescription": "An ulcer is a painless skin lesion characterized by a necrotic center, undermined edges and oedematous skin. ",
+            "dimensionItem": "wQQ4Y0bee1x",
+            "displayFormName": "Number of new BU cases with ulcerative lesions",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "wQQ4Y0bee1x"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_Age_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.993",
+            "id": "saBRBD6j7Sx",
+            "created": "2020-08-27T09:58:19.970",
+            "name": "BU_EPI_Age_Disagg",
+            "shortName": "# BU cases by age group (disagg)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_Age_Disagg",
+            "publicAccess": "rw------",
+            "displayShortName": "# BU cases by age group (disagg)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases by age group",
+            "dimensionItem": "saBRBD6j7Sx",
+            "displayFormName": "Number of new BU cases by age group",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "saBRBD6j7Sx"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_AnnualCases",
+            "lastUpdated": "2020-11-01T21:25:52.993",
+            "id": "tOpVIYrnbhk",
+            "created": "2018-05-09T22:26:29.218",
+            "name": "BU_EPI_AnnualCases",
+            "shortName": "# annual new BU cases",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_AnnualCases",
+            "publicAccess": "--------",
+            "description": "WHO defines a Buruli ulcer case as any person with painless nodule, papule, plaque or oedema evolving into a painless ulcer with undermined edges, often leading to invalidating sequelae in an endemic area.",
+            "displayShortName": "# annual new BU cases",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases diagnosed within reporting year",
+            "displayDescription": "WHO defines a Buruli ulcer case as any person with painless nodule, papule, plaque or oedema evolving into a painless ulcer with undermined edges, often leading to invalidating sequelae in an endemic area.",
+            "dimensionItem": "tOpVIYrnbhk",
+            "displayFormName": "Number of new BU cases diagnosed within reporting year",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "p0NhuIUoeST"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "ZO0DQJePIEH"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "UFlGxXoBrLN"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "VqmVLwlbJLo"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tOpVIYrnbhk"
+                    },
+                    "dataSet": {
+                        "id": "pcByGLGxBBP"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d?finit un cas d'ulcere de  Buruli comme toute personne pr?sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc?re avec des bords minces, souvent menant ? des s?quelles invalidantes, dans une zone d'end?mie."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": " OMS d�finit un cas d'ulcere de  Buruli comme toute personne pr�sentant des nodule, papule, plaque ou oedeme, sans douleur,  evoluant en ulc�re avec des bords minces, souvent menant � des s�quelles invalidantes, dans une zone d'end�mie."
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulcere de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre annuel de cas d'ulc?re de Buruli"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "UB_EPI_Cas_Annuel"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "IkOAkzRMm83"
+                },
+                {
+                    "id": "gNPrN6QcPl0"
+                },
+                {
+                    "id": "ovZIiKivfW9"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_EPI_Gender_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.994",
+            "id": "wPbGvMvW7dj",
+            "created": "2020-08-27T09:59:42.984",
+            "name": "BU_EPI_Gender_Disagg",
+            "shortName": "# BU cases by gender (disaggregated)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_EPI_Gender_Disagg",
+            "publicAccess": "rw------",
+            "displayShortName": "# BU cases by gender (disaggregated)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases by gender",
+            "dimensionItem": "wPbGvMvW7dj",
+            "displayFormName": "Number of new BU cases by gender",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "wPbGvMvW7dj"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB par sexe (d�sagg)"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB par sexe (d?sagg)"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB par sexe"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB par sexe"
+                }
+            ],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Lab_PCRconfirmation",
+            "lastUpdated": "2020-11-01T21:25:52.994",
+            "id": "IjrtWEc8Oei",
+            "created": "2018-05-09T22:26:29.218",
+            "name": "BU_Lab_PCRconfirmation",
+            "shortName": "# PCR confirmed BU cases",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Lab_PCRconfirmation",
+            "publicAccess": "--------",
+            "displayShortName": "# PCR confirmed BU cases",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases confirmed by PCR",
+            "dimensionItem": "IjrtWEc8Oei",
+            "displayFormName": "Number of new BU cases confirmed by PCR",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "IjrtWEc8Oei"
+                    },
+                    "dataSet": {
+                        "id": "UFlGxXoBrLN"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IjrtWEc8Oei"
+                    },
+                    "dataSet": {
+                        "id": "VqmVLwlbJLo"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IjrtWEc8Oei"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IjrtWEc8Oei"
+                    },
+                    "dataSet": {
+                        "id": "pcByGLGxBBP"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas confim?s par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Cas confim?s par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Cas confim?s par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas confim?s par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas confim?s par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas confim?s par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Cas confim?s par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Cas confim?s par PCR"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "Cas confim?s par PCR"
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Nombre de cas confim?s par PCR"
+                }
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "IkOAkzRMm83"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "code": "BU_Tx_ABcompletion_Disagg",
+            "lastUpdated": "2020-11-01T21:25:52.994",
+            "id": "VKA517j01KY",
+            "created": "2020-08-27T10:11:19.578",
+            "name": "BU_Tx_ABcompletion_Disagg",
+            "shortName": "# BU cases completing AB treatment (disagg)",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "BU_Tx_ABcompletion_Disagg",
+            "publicAccess": "rw------",
+            "description": "Treatment consists of a combination of antibiotics and complementary treatments (under morbidity management and disability prevention/rehabilitation). Treatment guidance for health workers can be found in the WHO publication \"Treatment of mycobacterium ulcerans disease (Buruli ulcer).\"",
+            "displayShortName": "# BU cases completing AB treatment (disagg)",
+            "externalAccess": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "formName": "Number of new BU cases completing antibiotics treatment",
+            "displayDescription": "Treatment consists of a combination of antibiotics and complementary treatments (under morbidity management and disability prevention/rehabilitation). Treatment guidance for health workers can be found in the WHO publication \"Treatment of mycobacterium ulcerans disease (Buruli ulcer).\"",
+            "dimensionItem": "VKA517j01KY",
+            "displayFormName": "Number of new BU cases completing antibiotics treatment",
+            "zeroIsSignificant": true,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "VKA517j01KY"
+                    },
+                    "dataSet": {
+                        "id": "NePI9W0zSH5"
+                    }
+                }
+            ],
+            "translations": [
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB ayant acheve le traitement AB (desagg)"
+                },
+                {
+                    "property": "SHORT_NAME",
+                    "locale": "fr",
+                    "value": "# cas d'UB ayant acheve le traitement AB (desagg)"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB ayant acheve le traitement antibiotique"
+                },
+                {
+                    "property": "FORM_NAME",
+                    "locale": "fr",
+                    "value": "Nombre de nouveaux cas d'UB ayant acheve le traitement antibiotique"
+                }
+            ],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "categoryCombos": [
+        {
+            "code": "CC_BU_CASEDEF_CAT",
+            "created": "2020-08-27T08:43:24.601",
+            "lastUpdated": "2020-11-01T21:25:49.675",
+            "name": "CC BU Case definition and category",
+            "id": "r8iNWVkcqxQ",
+            "dataDimensionType": "DISAGGREGATION",
+            "displayName": "CC BU Case definition and category",
+            "publicAccess": "--------",
+            "externalAccess": false,
+            "isDefault": false,
+            "skipTotal": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "Q06N8qMzTY6"
+                },
+                {
+                    "id": "ji2AEXqOvtV"
+                },
+                {
+                    "id": "Sc3L01XZcJm"
+                },
+                {
+                    "id": "MSRALn342In"
+                },
+                {
+                    "id": "cpyQXOe6HGJ"
+                },
+                {
+                    "id": "xKMinpLjbap"
+                },
+                {
+                    "id": "TF8PwgcQPdJ"
+                },
+                {
+                    "id": "YjGmc6Mz4jF"
+                }
+            ],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                },
+                {
+                    "id": "RchPsJmL2wA"
+                }
+            ]
+        },
+        {
+            "code": "CC_CASEDEF_SUSP_CONF",
+            "created": "2020-08-27T08:39:50.015",
+            "lastUpdated": "2020-11-01T21:25:49.675",
+            "name": "CC Case definition_SUSP_CONF",
+            "id": "VQrfHnZZn9h",
+            "dataDimensionType": "DISAGGREGATION",
+            "displayName": "CC Case definition_SUSP_CONF",
+            "publicAccess": "--------",
+            "externalAccess": false,
+            "isDefault": false,
+            "skipTotal": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "hUYQKGhlWFg"
+                },
+                {
+                    "id": "hb0rNLHR187"
+                }
+            ],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                }
+            ]
+        },
+        {
+            "code": "CC_BU_CASEDEF_AGE",
+            "created": "2020-08-27T09:57:10.001",
+            "lastUpdated": "2020-11-01T21:25:49.675",
+            "name": "CC BU Case definition and age",
+            "id": "s4r6tNW1TRn",
+            "dataDimensionType": "DISAGGREGATION",
+            "displayName": "CC BU Case definition and age",
+            "publicAccess": "rw------",
+            "externalAccess": false,
+            "isDefault": false,
+            "skipTotal": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "aSY3HAYwZRC"
+                },
+                {
+                    "id": "qHWiXgeemBr"
+                },
+                {
+                    "id": "yQdJewI0ToI"
+                },
+                {
+                    "id": "RU23orS3iJy"
+                },
+                {
+                    "id": "n9LUxOlSsdh"
+                },
+                {
+                    "id": "BjDwFgwYLrC"
+                },
+                {
+                    "id": "ltWXlH5uob5"
+                },
+                {
+                    "id": "QMtctoy4jdW"
+                }
+            ],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                },
+                {
+                    "id": "J2EQ3575tpG"
+                }
+            ]
+        },
+        {
+            "code": "CC_BU_CASEDEF_GENDER",
+            "created": "2020-08-27T10:06:32.496",
+            "lastUpdated": "2020-11-01T21:25:49.675",
+            "name": "CC BU Case definition and gender",
+            "id": "AwLbLgVvKmW",
+            "dataDimensionType": "DISAGGREGATION",
+            "displayName": "CC BU Case definition and gender",
+            "publicAccess": "rw------",
+            "externalAccess": false,
+            "isDefault": false,
+            "skipTotal": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "O15e7wEYmc7"
+                },
+                {
+                    "id": "O3UzQSD1w0J"
+                },
+                {
+                    "id": "s2j0nQZA1ZV"
+                },
+                {
+                    "id": "f6IHR50PkYi"
+                },
+                {
+                    "id": "GCICpuuvcZv"
+                },
+                {
+                    "id": "bPxrJoWY0xI"
+                }
+            ],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                },
+                {
+                    "id": "gvZZplg7PkY"
+                }
+            ]
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "TF8PwgcQPdJ",
+            "created": "2020-08-27T08:43:24.632",
+            "name": "Confirmed case, Cat I",
+            "shortName": "Confirmed case, Cat I",
+            "displayName": "Confirmed case, Cat I",
+            "displayShortName": "Confirmed case, Cat I",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "TF8PwgcQPdJ",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "OjTZlEq5DU6"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "MSRALn342In",
+            "created": "2020-08-27T08:43:24.635",
+            "name": "Confirmed case, Cat II",
+            "shortName": "Confirmed case, Cat II",
+            "displayName": "Confirmed case, Cat II",
+            "displayShortName": "Confirmed case, Cat II",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "MSRALn342In",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "FMJprslIeSG"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "cpyQXOe6HGJ",
+            "created": "2020-08-27T08:43:24.636",
+            "name": "Confirmed case, Cat III",
+            "shortName": "Confirmed case, Cat III",
+            "displayName": "Confirmed case, Cat III",
+            "displayShortName": "Confirmed case, Cat III",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "cpyQXOe6HGJ",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "rduPRxceiXM"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "ji2AEXqOvtV",
+            "created": "2020-08-27T08:43:24.630",
+            "name": "Confirmed case, Category unknown",
+            "shortName": "Confirmed case, Category unknown",
+            "displayName": "Confirmed case, Category unknown",
+            "displayShortName": "Confirmed case, Category unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "ji2AEXqOvtV",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "msTyBF6xVJI"
+                },
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "YjGmc6Mz4jF",
+            "created": "2020-08-27T08:43:24.626",
+            "name": "Suspected case, Cat I",
+            "shortName": "Suspected case, Cat I",
+            "displayName": "Suspected case, Cat I",
+            "displayShortName": "Suspected case, Cat I",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "YjGmc6Mz4jF",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "OjTZlEq5DU6"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "Q06N8qMzTY6",
+            "created": "2020-08-27T08:43:24.627",
+            "name": "Suspected case, Cat II",
+            "shortName": "Suspected case, Cat II",
+            "displayName": "Suspected case, Cat II",
+            "displayShortName": "Suspected case, Cat II",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "Q06N8qMzTY6",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "FMJprslIeSG"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "Sc3L01XZcJm",
+            "created": "2020-08-27T08:43:24.629",
+            "name": "Suspected case, Cat III",
+            "shortName": "Suspected case, Cat III",
+            "displayName": "Suspected case, Cat III",
+            "displayShortName": "Suspected case, Cat III",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "Sc3L01XZcJm",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "rduPRxceiXM"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "xKMinpLjbap",
+            "created": "2020-08-27T08:43:24.622",
+            "name": "Suspected case, Category unknown",
+            "shortName": "Suspected case, Category unknown",
+            "displayName": "Suspected case, Category unknown",
+            "displayShortName": "Suspected case, Category unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "xKMinpLjbap",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "r8iNWVkcqxQ"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "msTyBF6xVJI"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "hb0rNLHR187",
+            "created": "2020-08-27T08:39:50.062",
+            "name": "Confirmed case",
+            "shortName": "Confirmed case",
+            "displayName": "Confirmed case",
+            "displayShortName": "Confirmed case",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "hb0rNLHR187",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "hUYQKGhlWFg",
+            "created": "2020-08-27T08:39:50.032",
+            "name": "Suspected case",
+            "shortName": "Suspected case",
+            "displayName": "Suspected case",
+            "displayShortName": "Suspected case",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "hUYQKGhlWFg",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "VQrfHnZZn9h"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "RU23orS3iJy",
+            "created": "2020-08-27T09:57:10.060",
+            "name": "Confirmed case, 15 y and over",
+            "shortName": "Confirmed case, 15 y and over",
+            "displayName": "Confirmed case, 15 y and over",
+            "displayShortName": "Confirmed case, 15 y and over",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "RU23orS3iJy",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "qAeldgH4WMr"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "QMtctoy4jdW",
+            "created": "2020-08-27T09:57:10.059",
+            "name": "Confirmed case, 5 to 14 y",
+            "shortName": "Confirmed case, 5 to 14 y",
+            "displayName": "Confirmed case, 5 to 14 y",
+            "displayShortName": "Confirmed case, 5 to 14 y",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "QMtctoy4jdW",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "ciFLFA7AiOa"
+                },
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "n9LUxOlSsdh",
+            "created": "2020-08-27T09:57:10.062",
+            "name": "Confirmed case, Age Unknown",
+            "shortName": "Confirmed case, Age Unknown",
+            "displayName": "Confirmed case, Age Unknown",
+            "displayShortName": "Confirmed case, Age Unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "n9LUxOlSsdh",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "w5ItMDKuO20"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "ltWXlH5uob5",
+            "created": "2020-08-27T09:57:10.058",
+            "name": "Confirmed case, Under 5y",
+            "shortName": "Confirmed case, Under 5y",
+            "displayName": "Confirmed case, Under 5y",
+            "displayShortName": "Confirmed case, Under 5y",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "ltWXlH5uob5",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "vZ0WdHAROAy"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "qHWiXgeemBr",
+            "created": "2020-08-27T09:57:10.055",
+            "name": "Suspected case, 15 y and over",
+            "shortName": "Suspected case, 15 y and over",
+            "displayName": "Suspected case, 15 y and over",
+            "displayShortName": "Suspected case, 15 y and over",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "qHWiXgeemBr",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "qAeldgH4WMr"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "aSY3HAYwZRC",
+            "created": "2020-08-27T09:57:10.054",
+            "name": "Suspected case, 5 to 14 y",
+            "shortName": "Suspected case, 5 to 14 y",
+            "displayName": "Suspected case, 5 to 14 y",
+            "displayShortName": "Suspected case, 5 to 14 y",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "aSY3HAYwZRC",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "ciFLFA7AiOa"
+                },
+                {
+                    "id": "jWl7NXQ7xWM"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "yQdJewI0ToI",
+            "created": "2020-08-27T09:57:10.057",
+            "name": "Suspected case, Age Unknown",
+            "shortName": "Suspected case, Age Unknown",
+            "displayName": "Suspected case, Age Unknown",
+            "displayShortName": "Suspected case, Age Unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "yQdJewI0ToI",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "w5ItMDKuO20"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "BjDwFgwYLrC",
+            "created": "2020-08-27T09:57:10.045",
+            "name": "Suspected case, Under 5y",
+            "shortName": "Suspected case, Under 5y",
+            "displayName": "Suspected case, Under 5y",
+            "displayShortName": "Suspected case, Under 5y",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "BjDwFgwYLrC",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "s4r6tNW1TRn"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "vZ0WdHAROAy"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "s2j0nQZA1ZV",
+            "created": "2020-08-27T10:06:32.524",
+            "name": "Confirmed case, Female",
+            "shortName": "Confirmed case, Female",
+            "displayName": "Confirmed case, Female",
+            "displayShortName": "Confirmed case, Female",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "s2j0nQZA1ZV",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "tZftZ03eewT"
+                },
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "O15e7wEYmc7",
+            "created": "2020-08-27T10:06:32.525",
+            "name": "Confirmed case, Gender Unknown",
+            "shortName": "Confirmed case, Gender Unknown",
+            "displayName": "Confirmed case, Gender Unknown",
+            "displayShortName": "Confirmed case, Gender Unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "O15e7wEYmc7",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "NuBMsmUyzDA"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "f6IHR50PkYi",
+            "created": "2020-08-27T10:06:32.523",
+            "name": "Confirmed case, Male",
+            "shortName": "Confirmed case, Male",
+            "displayName": "Confirmed case, Male",
+            "displayShortName": "Confirmed case, Male",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "f6IHR50PkYi",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "A4lIvhFPXxO"
+                },
+                {
+                    "id": "qmsg1OVBqif"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "O3UzQSD1w0J",
+            "created": "2020-08-27T10:06:32.520",
+            "name": "Suspected case, Female",
+            "shortName": "Suspected case, Female",
+            "displayName": "Suspected case, Female",
+            "displayShortName": "Suspected case, Female",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "O3UzQSD1w0J",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "tZftZ03eewT"
+                },
+                {
+                    "id": "jWl7NXQ7xWM"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "bPxrJoWY0xI",
+            "created": "2020-08-27T10:06:32.522",
+            "name": "Suspected case, Gender Unknown",
+            "shortName": "Suspected case, Gender Unknown",
+            "displayName": "Suspected case, Gender Unknown",
+            "displayShortName": "Suspected case, Gender Unknown",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "bPxrJoWY0xI",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "NuBMsmUyzDA"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-11-01T21:25:51.352",
+            "id": "GCICpuuvcZv",
+            "created": "2020-08-27T10:06:32.516",
+            "name": "Suspected case, Male",
+            "shortName": "Suspected case, Male",
+            "displayName": "Suspected case, Male",
+            "displayShortName": "Suspected case, Male",
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "dimensionItem": "GCICpuuvcZv",
+            "favorite": false,
+            "categoryCombo": {
+                "id": "AwLbLgVvKmW"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "qmsg1OVBqif"
+                }
+            ],
+            "attributeValues": [],
+            "legendSets": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "code": "Op_BU_Cat_I",
+            "lastUpdated": "2020-11-01T21:25:45.680",
+            "id": "OjTZlEq5DU6",
+            "created": "2016-06-08T09:07:56.820",
+            "name": "Cat I",
+            "shortName": "Cat I",
+            "displayName": "Cat I",
+            "publicAccess": "--------",
+            "displayShortName": "Cat I",
+            "externalAccess": false,
+            "dimensionItem": "OjTZlEq5DU6",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "ZtPFWuopgBU"
+                },
+                {
+                    "id": "RchPsJmL2wA"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "rawZ86Q1W1k"
+                },
+                {
+                    "id": "hG9RpAcdxd4"
+                },
+                {
+                    "id": "TF8PwgcQPdJ"
+                },
+                {
+                    "id": "YjGmc6Mz4jF"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "x11b9AqLHYp"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "COP_CONFIRMED",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "A4lIvhFPXxO",
+            "created": "2020-08-27T08:37:07.092",
+            "name": "Confirmed case",
+            "shortName": "Confirmed",
+            "displayName": "Confirmed case",
+            "publicAccess": "rw------",
+            "displayShortName": "Confirmed",
+            "externalAccess": false,
+            "dimensionItem": "A4lIvhFPXxO",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "ji2AEXqOvtV"
+                },
+                {
+                    "id": "O15e7wEYmc7"
+                },
+                {
+                    "id": "hb0rNLHR187"
+                },
+                {
+                    "id": "MSRALn342In"
+                },
+                {
+                    "id": "s2j0nQZA1ZV"
+                },
+                {
+                    "id": "RU23orS3iJy"
+                },
+                {
+                    "id": "n9LUxOlSsdh"
+                },
+                {
+                    "id": "cpyQXOe6HGJ"
+                },
+                {
+                    "id": "ltWXlH5uob5"
+                },
+                {
+                    "id": "TF8PwgcQPdJ"
+                },
+                {
+                    "id": "f6IHR50PkYi"
+                },
+                {
+                    "id": "QMtctoy4jdW"
+                }
+            ],
+            "categoryOptionGroups": [],
+            "legendSets": []
+        },
+        {
+            "code": "Op_BU_Cat_II",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "FMJprslIeSG",
+            "created": "2016-06-08T09:07:56.983",
+            "name": "Cat II",
+            "shortName": "Cat II",
+            "displayName": "Cat II",
+            "publicAccess": "--------",
+            "displayShortName": "Cat II",
+            "externalAccess": false,
+            "dimensionItem": "FMJprslIeSG",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "ZtPFWuopgBU"
+                },
+                {
+                    "id": "RchPsJmL2wA"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "C0llASltiUa"
+                },
+                {
+                    "id": "Q06N8qMzTY6"
+                },
+                {
+                    "id": "MSRALn342In"
+                },
+                {
+                    "id": "j5fsvsfsaJ3"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "x11b9AqLHYp"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "Op_BU_Cat_III",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "rduPRxceiXM",
+            "created": "2016-06-08T09:07:57.152",
+            "name": "Cat III",
+            "shortName": "Cat III",
+            "displayName": "Cat III",
+            "publicAccess": "--------",
+            "displayShortName": "Cat III",
+            "externalAccess": false,
+            "dimensionItem": "rduPRxceiXM",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "ZtPFWuopgBU"
+                },
+                {
+                    "id": "RchPsJmL2wA"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "Sc3L01XZcJm"
+                },
+                {
+                    "id": "cpyQXOe6HGJ"
+                },
+                {
+                    "id": "c7ypRdqByt7"
+                },
+                {
+                    "id": "SboJeqG5PSr"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "x11b9AqLHYp"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "Op_BU_Cat_unknown",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "msTyBF6xVJI",
+            "created": "2016-09-13T18:45:25.739",
+            "name": "Category unknown",
+            "shortName": "Category unknown",
+            "displayName": "Category unknown",
+            "publicAccess": "--------",
+            "displayShortName": "Category unknown",
+            "externalAccess": false,
+            "dimensionItem": "msTyBF6xVJI",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "ZtPFWuopgBU"
+                },
+                {
+                    "id": "RchPsJmL2wA"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "ji2AEXqOvtV"
+                },
+                {
+                    "id": "Vcv8owxbxaN"
+                },
+                {
+                    "id": "rETDBf8DCmm"
+                },
+                {
+                    "id": "xKMinpLjbap"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "x11b9AqLHYp"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "COP_SUSPECTED",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "jWl7NXQ7xWM",
+            "created": "2020-08-27T08:36:32.093",
+            "name": "Suspected case",
+            "shortName": "Suspected",
+            "displayName": "Suspected case",
+            "publicAccess": "rw------",
+            "displayShortName": "Suspected",
+            "externalAccess": false,
+            "dimensionItem": "jWl7NXQ7xWM",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "h6f2QsMwEnP"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "aSY3HAYwZRC"
+                },
+                {
+                    "id": "Q06N8qMzTY6"
+                },
+                {
+                    "id": "qHWiXgeemBr"
+                },
+                {
+                    "id": "O3UzQSD1w0J"
+                },
+                {
+                    "id": "Sc3L01XZcJm"
+                },
+                {
+                    "id": "yQdJewI0ToI"
+                },
+                {
+                    "id": "hUYQKGhlWFg"
+                },
+                {
+                    "id": "BjDwFgwYLrC"
+                },
+                {
+                    "id": "xKMinpLjbap"
+                },
+                {
+                    "id": "GCICpuuvcZv"
+                },
+                {
+                    "id": "bPxrJoWY0xI"
+                },
+                {
+                    "id": "YjGmc6Mz4jF"
+                }
+            ],
+            "categoryOptionGroups": [],
+            "legendSets": []
+        },
+        {
+            "code": "Op_Age_15over",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "qAeldgH4WMr",
+            "created": "2016-03-29T21:07:01.799",
+            "name": "15 y and over",
+            "shortName": "15 y and over",
+            "displayName": "15 y and over",
+            "publicAccess": "--------",
+            "displayShortName": "15 y and over",
+            "externalAccess": false,
+            "dimensionItem": "qAeldgH4WMr",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "rzQQTUxU2tu"
+                },
+                {
+                    "id": "J2EQ3575tpG"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "gFDH63LyNqz"
+                },
+                {
+                    "id": "JxynIgjxP0W"
+                },
+                {
+                    "id": "qHWiXgeemBr"
+                },
+                {
+                    "id": "vJEPLhdauF7"
+                },
+                {
+                    "id": "SzMuyanO7VW"
+                },
+                {
+                    "id": "GIcJpLTfve7"
+                },
+                {
+                    "id": "LleOaTSvOuh"
+                },
+                {
+                    "id": "RU23orS3iJy"
+                },
+                {
+                    "id": "CA8OwEo7CNp"
+                },
+                {
+                    "id": "xxrYh49wmnD"
+                },
+                {
+                    "id": "DDliBAHqwGV"
+                },
+                {
+                    "id": "UQMTeRPY2U0"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "Ml1dLYsGXAM"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "Op_Age_5-14y",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "ciFLFA7AiOa",
+            "created": "2016-03-29T21:07:01.747",
+            "name": "5 to 14 y",
+            "shortName": "5 to 14 y",
+            "displayName": "5 to 14 y",
+            "publicAccess": "--------",
+            "displayShortName": "5 to 14 y",
+            "externalAccess": false,
+            "dimensionItem": "ciFLFA7AiOa",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "DddEdUVkG71"
+                },
+                {
+                    "id": "J2EQ3575tpG"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "aSY3HAYwZRC"
+                },
+                {
+                    "id": "mTyLqDjpQ5b"
+                },
+                {
+                    "id": "P6R9XEaqQbz"
+                },
+                {
+                    "id": "a1GEE4dBKZ8"
+                },
+                {
+                    "id": "B6vmUBd6TUV"
+                },
+                {
+                    "id": "s3IxsL8GeRj"
+                },
+                {
+                    "id": "ESfPsVIs25u"
+                },
+                {
+                    "id": "QMtctoy4jdW"
+                },
+                {
+                    "id": "HcDAlGa9KKf"
+                },
+                {
+                    "id": "DOJartWGuff"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "Ml1dLYsGXAM"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "Op_Age_unknown",
+            "lastUpdated": "2020-11-01T21:25:45.683",
+            "id": "w5ItMDKuO20",
+            "created": "2016-03-29T21:07:01.840",
+            "name": "Age Unknown",
+            "shortName": "Age Unknwon",
+            "displayName": "Age Unknown",
+            "publicAccess": "--------",
+            "displayShortName": "Age Unknwon",
+            "externalAccess": false,
+            "dimensionItem": "w5ItMDKuO20",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "DddEdUVkG71"
+                },
+                {
+                    "id": "rzQQTUxU2tu"
+                },
+                {
+                    "id": "J2EQ3575tpG"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "UaSLQnFPrUa"
+                },
+                {
+                    "id": "lRMBHX64GRh"
+                },
+                {
+                    "id": "OLxI16ZrmYs"
+                },
+                {
+                    "id": "wzNLOvBy7wZ"
+                },
+                {
+                    "id": "kek1YXjDq70"
+                },
+                {
+                    "id": "n9LUxOlSsdh"
+                },
+                {
+                    "id": "nIbrdHllMKh"
+                },
+                {
+                    "id": "ZuoShIBDYqU"
+                },
+                {
+                    "id": "dVuOzmU4xbI"
+                },
+                {
+                    "id": "nsAtTlNSHR4"
+                },
+                {
+                    "id": "yQdJewI0ToI"
+                },
+                {
+                    "id": "zuuSkk9CiNB"
+                },
+                {
+                    "id": "ceenTkQ5kHJ"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "Ml1dLYsGXAM"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "Op_Age_under5",
+            "lastUpdated": "2020-11-01T21:25:45.684",
+            "id": "vZ0WdHAROAy",
+            "created": "2016-03-29T21:07:01.700",
+            "name": "Under 5y",
+            "shortName": "Under 5y",
+            "displayName": "Under 5y",
+            "publicAccess": "r-r-----",
+            "displayShortName": "Under 5y",
+            "externalAccess": false,
+            "dimensionItem": "vZ0WdHAROAy",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "DddEdUVkG71"
+                },
+                {
+                    "id": "kXS2SK0gQDf"
+                },
+                {
+                    "id": "J2EQ3575tpG"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "ziD1jL2dJaj"
+                },
+                {
+                    "id": "UWjZOV5uJxY"
+                },
+                {
+                    "id": "gWsMlGpOSzY"
+                },
+                {
+                    "id": "NlAMTGlJ7b3"
+                },
+                {
+                    "id": "UZO2MsUMcgj"
+                },
+                {
+                    "id": "hKq5WASZw8q"
+                },
+                {
+                    "id": "rZwYGlqR8GG"
+                },
+                {
+                    "id": "BjDwFgwYLrC"
+                },
+                {
+                    "id": "Bmz5QDlUZbl"
+                },
+                {
+                    "id": "o7NkWl5xFuS"
+                },
+                {
+                    "id": "alXovQMIHOO"
+                },
+                {
+                    "id": "DWFaQmHMD7O"
+                },
+                {
+                    "id": "ltWXlH5uob5"
+                }
+            ],
+            "categoryOptionGroups": [],
+            "legendSets": []
+        },
+        {
+            "code": "ALL_Op_Gender_Female",
+            "lastUpdated": "2020-11-01T21:25:45.684",
+            "id": "tZftZ03eewT",
+            "created": "2016-03-29T21:07:01.625",
+            "name": "Female",
+            "shortName": "Female",
+            "displayName": "Female",
+            "publicAccess": "r-rw----",
+            "displayShortName": "Female",
+            "externalAccess": false,
+            "dimensionItem": "tZftZ03eewT",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "o2PYOw8PSBa"
+                },
+                {
+                    "id": "gvZZplg7PkY"
+                },
+                {
+                    "id": "w8ywTFITT72"
+                },
+                {
+                    "id": "gAufjXAE9IN"
+                },
+                {
+                    "id": "za25uP7yetv"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "Bq2pVOheHJZ"
+                },
+                {
+                    "id": "gkeN62eQlSA"
+                },
+                {
+                    "id": "I2jzuadXgYA"
+                },
+                {
+                    "id": "tGLOcuXZrDl"
+                },
+                {
+                    "id": "Rl9IthzaTlK"
+                },
+                {
+                    "id": "SobJ4FGuBRA"
+                },
+                {
+                    "id": "ImUxVfmYXdJ"
+                },
+                {
+                    "id": "oJnH6dMmSlZ"
+                },
+                {
+                    "id": "UO2jsTDcq8h"
+                },
+                {
+                    "id": "nJHwHNm2RWc"
+                },
+                {
+                    "id": "kH3O17Sezfp"
+                },
+                {
+                    "id": "BO8BiFA6WZo"
+                },
+                {
+                    "id": "nsAtTlNSHR4"
+                },
+                {
+                    "id": "JxynIgjxP0W"
+                },
+                {
+                    "id": "alXovQMIHOO"
+                },
+                {
+                    "id": "ymHIFSOzoS3"
+                },
+                {
+                    "id": "F3kCvhpDnMM"
+                },
+                {
+                    "id": "B6vmUBd6TUV"
+                },
+                {
+                    "id": "nHBTtdVMe7l"
+                },
+                {
+                    "id": "duGKKeTau7b"
+                },
+                {
+                    "id": "ceenTkQ5kHJ"
+                },
+                {
+                    "id": "hI8wdaiRHaS"
+                },
+                {
+                    "id": "phmOPuKivRA"
+                },
+                {
+                    "id": "irBgvZTT9zq"
+                },
+                {
+                    "id": "oic7kU2uVtJ"
+                },
+                {
+                    "id": "fOXpyO03PvT"
+                },
+                {
+                    "id": "Tz1yoAtTgOA"
+                },
+                {
+                    "id": "adEelGXyPIn"
+                },
+                {
+                    "id": "Qj4TvOYN0aw"
+                },
+                {
+                    "id": "fUtivvBPtq5"
+                },
+                {
+                    "id": "Gh29gSpSYPp"
+                },
+                {
+                    "id": "i6rBoDsk4LE"
+                },
+                {
+                    "id": "o7NkWl5xFuS"
+                },
+                {
+                    "id": "qdWOgC6bbBi"
+                },
+                {
+                    "id": "J2bSeQOV7xF"
+                },
+                {
+                    "id": "WRscQvX1k6g"
+                },
+                {
+                    "id": "V2LdgcGgFQt"
+                },
+                {
+                    "id": "OmkgX8Kkurn"
+                },
+                {
+                    "id": "zvECz1sg3sj"
+                },
+                {
+                    "id": "cOiIgWw0CuG"
+                },
+                {
+                    "id": "O3UzQSD1w0J"
+                },
+                {
+                    "id": "Jkrg1KI25AV"
+                },
+                {
+                    "id": "IVFKF7NzjJa"
+                },
+                {
+                    "id": "rKPj6tIFR8A"
+                },
+                {
+                    "id": "wGED4K5Bs37"
+                },
+                {
+                    "id": "RJDdLqVGxu8"
+                },
+                {
+                    "id": "wyJx0coEXHO"
+                },
+                {
+                    "id": "CdAJ8Cso0N8"
+                },
+                {
+                    "id": "s2j0nQZA1ZV"
+                },
+                {
+                    "id": "nJEkgZS74Tt"
+                },
+                {
+                    "id": "RdXdiwfdPGJ"
+                },
+                {
+                    "id": "YbRqGKpX50g"
+                },
+                {
+                    "id": "cCqUNrqjQSj"
+                },
+                {
+                    "id": "tqB0eSHl0K8"
+                },
+                {
+                    "id": "B2cV93OdJpI"
+                },
+                {
+                    "id": "CA8OwEo7CNp"
+                },
+                {
+                    "id": "gzF2qwDqjP8"
+                },
+                {
+                    "id": "TtoYCIVcBA3"
+                },
+                {
+                    "id": "KddgpSIhqyd"
+                },
+                {
+                    "id": "xodN5e1QCp6"
+                },
+                {
+                    "id": "ECle1XHoHZ2"
+                },
+                {
+                    "id": "qBlMafe7uEH"
+                },
+                {
+                    "id": "bddWwDoi9AH"
+                },
+                {
+                    "id": "b1AQ58FpBdb"
+                },
+                {
+                    "id": "jU99cH6TC2H"
+                },
+                {
+                    "id": "Awd3Yh9wuTC"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "BwH3m0fCgUY"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "ALL_Gender_9",
+            "lastUpdated": "2020-11-01T21:25:45.684",
+            "id": "NuBMsmUyzDA",
+            "created": "2016-03-29T21:07:01.664",
+            "name": "Gender Unknown",
+            "shortName": "Gender Unknown",
+            "displayName": "Gender Unknown",
+            "publicAccess": "r-rw----",
+            "displayShortName": "Gender Unknown",
+            "externalAccess": false,
+            "dimensionItem": "NuBMsmUyzDA",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "gvZZplg7PkY"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "UaSLQnFPrUa"
+                },
+                {
+                    "id": "zsA0z1yxCyw"
+                },
+                {
+                    "id": "LleOaTSvOuh"
+                },
+                {
+                    "id": "c4W9oSEMusk"
+                },
+                {
+                    "id": "X3HGB1w6KWS"
+                },
+                {
+                    "id": "Bmz5QDlUZbl"
+                },
+                {
+                    "id": "qraN24UI7UO"
+                },
+                {
+                    "id": "tM8b4MYxlws"
+                },
+                {
+                    "id": "Ze4NKklDEry"
+                },
+                {
+                    "id": "URAmCjBqRHW"
+                },
+                {
+                    "id": "zx6ELNiPAq3"
+                },
+                {
+                    "id": "mx2Vqi1H3Hb"
+                },
+                {
+                    "id": "COVvK2lp01u"
+                },
+                {
+                    "id": "ZMMTWSNKy8h"
+                },
+                {
+                    "id": "SJ0yKVvq8Gz"
+                },
+                {
+                    "id": "YF8UKbqPrBb"
+                },
+                {
+                    "id": "C9VfB7rurrS"
+                },
+                {
+                    "id": "kmnHzx1ulIk"
+                },
+                {
+                    "id": "FaYhAlKLX16"
+                },
+                {
+                    "id": "AJkUDaDSA7W"
+                },
+                {
+                    "id": "DWFaQmHMD7O"
+                },
+                {
+                    "id": "zkKbIIarKWM"
+                },
+                {
+                    "id": "O15e7wEYmc7"
+                },
+                {
+                    "id": "K3xHNQJ7dfA"
+                },
+                {
+                    "id": "ZuoShIBDYqU"
+                },
+                {
+                    "id": "jNbFhhnUsQv"
+                },
+                {
+                    "id": "ESfPsVIs25u"
+                },
+                {
+                    "id": "zUaD2dW8jgR"
+                },
+                {
+                    "id": "ArqsoBKa99s"
+                },
+                {
+                    "id": "qIa4UJxA58c"
+                },
+                {
+                    "id": "lRj2b3lwwiu"
+                },
+                {
+                    "id": "FZbVpJtDLlV"
+                },
+                {
+                    "id": "r9jCuRLjAyg"
+                },
+                {
+                    "id": "i0GLBPlRTrP"
+                },
+                {
+                    "id": "JhZibEej5Ip"
+                },
+                {
+                    "id": "GIcJpLTfve7"
+                },
+                {
+                    "id": "Ng311XPZTbv"
+                },
+                {
+                    "id": "eC3COFF4SAx"
+                },
+                {
+                    "id": "vq2MeIzidDv"
+                },
+                {
+                    "id": "VtRt5eBh10B"
+                },
+                {
+                    "id": "VU02e8ZgQNA"
+                },
+                {
+                    "id": "bPxrJoWY0xI"
+                },
+                {
+                    "id": "BPDXuG96jbx"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "VG0EOZ8cXF2"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "ALL_Op_Gender_Male",
+            "lastUpdated": "2020-11-01T21:25:45.684",
+            "id": "qmsg1OVBqif",
+            "created": "2016-03-29T21:07:01.529",
+            "name": "Male",
+            "shortName": "Male",
+            "displayName": "Male",
+            "publicAccess": "r-rw----",
+            "displayShortName": "Male",
+            "externalAccess": false,
+            "dimensionItem": "qmsg1OVBqif",
+            "isDefault": false,
+            "favorite": false,
+            "dimensionItemType": "CATEGORY_OPTION",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categories": [
+                {
+                    "id": "o2PYOw8PSBa"
+                },
+                {
+                    "id": "gvZZplg7PkY"
+                },
+                {
+                    "id": "w8ywTFITT72"
+                },
+                {
+                    "id": "gAufjXAE9IN"
+                },
+                {
+                    "id": "za25uP7yetv"
+                }
+            ],
+            "attributeValues": [],
+            "categoryOptionCombos": [
+                {
+                    "id": "sAC6z2IMFrR"
+                },
+                {
+                    "id": "UWjZOV5uJxY"
+                },
+                {
+                    "id": "lRMBHX64GRh"
+                },
+                {
+                    "id": "SzMuyanO7VW"
+                },
+                {
+                    "id": "AJkBK9XBytM"
+                },
+                {
+                    "id": "MQHj21HNPld"
+                },
+                {
+                    "id": "RwwDYedBcDl"
+                },
+                {
+                    "id": "Ikt0bGwnzIV"
+                },
+                {
+                    "id": "ZYAx6PjJ2ZM"
+                },
+                {
+                    "id": "Cdnp37HXBuW"
+                },
+                {
+                    "id": "o8dMMqNDCtr"
+                },
+                {
+                    "id": "PKDfpYDkyoy"
+                },
+                {
+                    "id": "s3IxsL8GeRj"
+                },
+                {
+                    "id": "KgWeJlhYIUH"
+                },
+                {
+                    "id": "ttAEJltz1yh"
+                },
+                {
+                    "id": "kXo51Sydk1t"
+                },
+                {
+                    "id": "BvCWyIwIqa8"
+                },
+                {
+                    "id": "gFDH63LyNqz"
+                },
+                {
+                    "id": "Z5yrOGbNJDS"
+                },
+                {
+                    "id": "SSttAumFGlh"
+                },
+                {
+                    "id": "VwZsMBUBdR1"
+                },
+                {
+                    "id": "eqIy4IosdYX"
+                },
+                {
+                    "id": "avCYQARWeei"
+                },
+                {
+                    "id": "lptUC1gVg8o"
+                },
+                {
+                    "id": "HzQnR8x6NZM"
+                },
+                {
+                    "id": "GpQZH8hC7jY"
+                },
+                {
+                    "id": "QtTpt8cslKS"
+                },
+                {
+                    "id": "Ss3gp5wAYOQ"
+                },
+                {
+                    "id": "t9j1BZCfodV"
+                },
+                {
+                    "id": "a2dH289sMou"
+                },
+                {
+                    "id": "uS3rPZNSqG2"
+                },
+                {
+                    "id": "uhYj8znPdbs"
+                },
+                {
+                    "id": "GCICpuuvcZv"
+                },
+                {
+                    "id": "xdAhLef7xG4"
+                },
+                {
+                    "id": "C0VIpje6ADR"
+                },
+                {
+                    "id": "QRq07jjUJ87"
+                },
+                {
+                    "id": "vctYQZjV577"
+                },
+                {
+                    "id": "xsUkVS0PK0u"
+                },
+                {
+                    "id": "Kfl0nm2Ua4g"
+                },
+                {
+                    "id": "xg93vsHpaGE"
+                },
+                {
+                    "id": "f6IHR50PkYi"
+                },
+                {
+                    "id": "NkSqIMTIuls"
+                },
+                {
+                    "id": "EwbLgfdV8FZ"
+                },
+                {
+                    "id": "Y4f1oK6YwiH"
+                },
+                {
+                    "id": "gWsMlGpOSzY"
+                },
+                {
+                    "id": "xaMRyDOevEu"
+                },
+                {
+                    "id": "mK0R31b5GTl"
+                },
+                {
+                    "id": "OLxI16ZrmYs"
+                },
+                {
+                    "id": "aWWYWv6buzp"
+                },
+                {
+                    "id": "MDwAlXqOIaY"
+                },
+                {
+                    "id": "QCKfVLwqMwh"
+                },
+                {
+                    "id": "RO4TdcMI5GT"
+                },
+                {
+                    "id": "vPPZ9IvzwcZ"
+                },
+                {
+                    "id": "CvkRAg9TjQ6"
+                },
+                {
+                    "id": "UG7PsogfDYz"
+                },
+                {
+                    "id": "MKDYDGdryXB"
+                },
+                {
+                    "id": "Oxc0vQsNvgM"
+                },
+                {
+                    "id": "Z2hvpF7mhh7"
+                },
+                {
+                    "id": "TYyRM6Rognx"
+                },
+                {
+                    "id": "sTorYkoxHFi"
+                },
+                {
+                    "id": "zVany2kYbhz"
+                },
+                {
+                    "id": "BpI46BM32FB"
+                },
+                {
+                    "id": "nEcy1pNxZfw"
+                },
+                {
+                    "id": "XucrdYEMOE7"
+                },
+                {
+                    "id": "RtVImvsiiso"
+                },
+                {
+                    "id": "xNIlYwDqEMo"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "BwH3m0fCgUY"
+                }
+            ],
+            "legendSets": []
+        }
+    ],
+    "categories": [
+        {
+            "code": "CAT_CASEDEF_SUSP_CONF",
+            "lastUpdated": "2020-11-01T21:25:47.922",
+            "id": "h6f2QsMwEnP",
+            "created": "2020-08-27T08:38:45.917",
+            "name": "Case definition_SUSP_CONF",
+            "shortName": "Case definition_SUSP_CONF",
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionType": "CATEGORY",
+            "displayName": "Case definition_SUSP_CONF",
+            "publicAccess": "--------",
+            "displayShortName": "Case definition_SUSP_CONF",
+            "externalAccess": false,
+            "dimension": "h6f2QsMwEnP",
+            "allItems": false,
+            "dataDimension": true,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "VQrfHnZZn9h"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ],
+            "attributeValues": [],
+            "items": [
+                {
+                    "id": "jWl7NXQ7xWM"
+                },
+                {
+                    "id": "A4lIvhFPXxO"
+                }
+            ]
+        },
+        {
+            "code": "Category (BU)",
+            "lastUpdated": "2020-11-01T21:25:47.922",
+            "id": "RchPsJmL2wA",
+            "created": "2016-09-13T18:48:07.977",
+            "name": "Category (BU)",
+            "shortName": "Category (BU)",
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionType": "CATEGORY",
+            "displayName": "Category (BU)",
+            "publicAccess": "--------",
+            "displayShortName": "Category (BU)",
+            "externalAccess": false,
+            "dimension": "RchPsJmL2wA",
+            "allItems": false,
+            "dataDimension": true,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "MeoSuM1SQ1f"
+                },
+                {
+                    "id": "r8iNWVkcqxQ"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "msTyBF6xVJI"
+                },
+                {
+                    "id": "OjTZlEq5DU6"
+                },
+                {
+                    "id": "FMJprslIeSG"
+                },
+                {
+                    "id": "rduPRxceiXM"
+                }
+            ],
+            "attributeValues": [],
+            "items": [
+                {
+                    "id": "msTyBF6xVJI"
+                },
+                {
+                    "id": "OjTZlEq5DU6"
+                },
+                {
+                    "id": "FMJprslIeSG"
+                },
+                {
+                    "id": "rduPRxceiXM"
+                }
+            ]
+        },
+        {
+            "code": "Age group",
+            "lastUpdated": "2020-11-01T21:25:47.922",
+            "id": "J2EQ3575tpG",
+            "created": "2016-03-29T21:07:02.275",
+            "name": "Age group",
+            "shortName": "Age group",
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionType": "CATEGORY",
+            "displayName": "Age group",
+            "publicAccess": "--------",
+            "displayShortName": "Age group",
+            "externalAccess": false,
+            "dimension": "J2EQ3575tpG",
+            "allItems": false,
+            "dataDimension": true,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "E0cSdwztY5K"
+                },
+                {
+                    "id": "s4r6tNW1TRn"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "vZ0WdHAROAy"
+                },
+                {
+                    "id": "ciFLFA7AiOa"
+                },
+                {
+                    "id": "qAeldgH4WMr"
+                },
+                {
+                    "id": "w5ItMDKuO20"
+                }
+            ],
+            "attributeValues": [],
+            "items": [
+                {
+                    "id": "vZ0WdHAROAy"
+                },
+                {
+                    "id": "ciFLFA7AiOa"
+                },
+                {
+                    "id": "qAeldgH4WMr"
+                },
+                {
+                    "id": "w5ItMDKuO20"
+                }
+            ]
+        },
+        {
+            "code": "ALL_Gender",
+            "lastUpdated": "2020-11-01T21:25:47.922",
+            "id": "gvZZplg7PkY",
+            "created": "2016-03-29T21:07:02.329",
+            "name": "Gender",
+            "shortName": "Gender",
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionType": "CATEGORY",
+            "displayName": "Gender",
+            "publicAccess": "r-------",
+            "displayShortName": "Gender",
+            "externalAccess": false,
+            "dimension": "gvZZplg7PkY",
+            "allItems": false,
+            "dataDimension": true,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "VygZ6pni0XS"
+                },
+                {
+                    "id": "AwLbLgVvKmW"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "qmsg1OVBqif"
+                },
+                {
+                    "id": "tZftZ03eewT"
+                },
+                {
+                    "id": "NuBMsmUyzDA"
+                }
+            ],
+            "attributeValues": [],
+            "items": [
+                {
+                    "id": "qmsg1OVBqif"
+                },
+                {
+                    "id": "tZftZ03eewT"
+                },
+                {
+                    "id": "NuBMsmUyzDA"
+                }
+            ]
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "code": "DEG_BU_AggregatedData",
+            "lastUpdated": "2020-11-01T21:25:54.790",
+            "id": "IkOAkzRMm83",
+            "created": "2017-11-16T15:25:50.641",
+            "name": "BU_Aggregated data",
+            "shortName": "BU_Aggregated data",
+            "aggregationType": "SUM",
+            "displayName": "BU_Aggregated data",
+            "publicAccess": "--------",
+            "displayShortName": "BU_Aggregated data",
+            "externalAccess": false,
+            "dimensionItem": "IkOAkzRMm83",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "code": "DEG_BU_Indicators",
+            "lastUpdated": "2020-11-01T21:25:54.790",
+            "id": "ovZIiKivfW9",
+            "created": "2017-11-16T15:26:44.337",
+            "name": "BU_Indicators",
+            "shortName": "BU_Indicators",
+            "aggregationType": "AVERAGE",
+            "displayName": "BU_Indicators",
+            "publicAccess": "--------",
+            "displayShortName": "BU_Indicators",
+            "externalAccess": false,
+            "dimensionItem": "ovZIiKivfW9",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        },
+        {
+            "code": "DEG_GHO_DE",
+            "lastUpdated": "2020-11-01T21:25:54.790",
+            "id": "gNPrN6QcPl0",
+            "created": "2017-12-07T13:02:32.364",
+            "name": "GHO",
+            "shortName": "GHO",
+            "aggregationType": "NONE",
+            "displayName": "GHO",
+            "publicAccess": "--------",
+            "displayShortName": "GHO",
+            "externalAccess": false,
+            "dimensionItem": "gNPrN6QcPl0",
+            "favorite": false,
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "groupSets": [],
+            "legendSets": []
+        }
+    ],
+    "indicators": [
+        {
+            "code": "BU_PCR%",
+            "lastUpdated": "2020-11-01T21:25:58.158",
+            "id": "UBHvHs7yeEB",
+            "created": "2016-11-03T18:25:35.628",
+            "name": "BU_PCR%",
+            "shortName": "BU_Proportion of BU cases confirmed by PCR",
+            "displayName": "BU_PCR%",
+            "publicAccess": "--------",
+            "description": "Proportion of Buruli ulcer cases confirmed by PCR, based on summary data",
+            "displayShortName": "BU_Proportion of BU cases confirmed by PCR",
+            "externalAccess": false,
+            "denominatorDescription": "Total number of BU cases (summary)",
+            "numeratorDescription": "Number of BU cases confirmed by PCR (summary)",
+            "displayDescription": "Proportion of Buruli ulcer cases confirmed by PCR, based on summary data",
+            "dimensionItem": "UBHvHs7yeEB",
+            "numerator": "#{IjrtWEc8Oei.Xr12mI7VPn3}",
+            "denominator": "#{tOpVIYrnbhk.Xr12mI7VPn3}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_ABcompleted_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "Ob8WKsIKq2X",
+            "created": "2020-08-27T10:41:53.156",
+            "name": "Confirmed BU - % AB completed",
+            "shortName": "Conf BU - % AB completed",
+            "displayName": "Confirmed BU - % AB completed",
+            "publicAccess": "rw------",
+            "description": "Proportion of new confirmed Buruli ulcer cases having completed antibiotics treatment, based on summary data",
+            "displayShortName": "Conf BU - % AB completed",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# confirmed BU cases who completed AB treatment",
+            "displayDescription": "Proportion of new confirmed Buruli ulcer cases having completed antibiotics treatment, based on summary data",
+            "dimensionItem": "Ob8WKsIKq2X",
+            "numerator": "#{VKA517j01KY.hb0rNLHR187}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_CatIII_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "w2xRISHNOcX",
+            "created": "2020-08-27T10:39:32.453",
+            "name": "Confirmed BU - % Category III",
+            "shortName": "Conf BU - % Cat III",
+            "displayName": "Confirmed BU - % Category III",
+            "publicAccess": "rw------",
+            "description": "Proportion of new confirmed Buruli ulcer cases presenting category III lesions at diagnosis, based on summary data",
+            "displayShortName": "Conf BU - % Cat III",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# confirmed BU cases with category III lesions",
+            "displayDescription": "Proportion of new confirmed Buruli ulcer cases presenting category III lesions at diagnosis, based on summary data",
+            "dimensionItem": "w2xRISHNOcX",
+            "numerator": "#{srb0N3z6LA0.cpyQXOe6HGJ}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_Female_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "UZy7m1zTSon",
+            "created": "2020-08-27T10:44:27.761",
+            "name": "Confirmed BU - % Female",
+            "shortName": "Conf BU - % Female",
+            "displayName": "Confirmed BU - % Female",
+            "publicAccess": "rw------",
+            "description": "Proportion of female among new confirmed Buruli ulcer cases, based on summary data",
+            "displayShortName": "Conf BU - % Female",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# female among confirmed BU cases",
+            "displayDescription": "Proportion of female among new confirmed Buruli ulcer cases, based on summary data",
+            "dimensionItem": "UZy7m1zTSon",
+            "numerator": "#{wPbGvMvW7dj.s2j0nQZA1ZV}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_LowLimb_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "dn8xvrDvKqT",
+            "created": "2020-08-27T12:11:01.698",
+            "name": "Confirmed BU - % Lower limbs",
+            "shortName": "Conf BU - % Lower limbs",
+            "displayName": "Confirmed BU - % Lower limbs",
+            "publicAccess": "rw------",
+            "description": "Proportion of new confirmed Buruli ulcer cases presenting lesions on lower limbs at diagnosis, based on summary data",
+            "displayShortName": "Conf BU - % Lower limbs",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# confirmed BU cases with lesions on lower limbs",
+            "displayDescription": "Proportion of new confirmed Buruli ulcer cases presenting lesions on lower limbs at diagnosis, based on summary data",
+            "dimensionItem": "dn8xvrDvKqT",
+            "numerator": "#{WF3jOySL1Hg.hb0rNLHR187}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_JointLim_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "RKQ3cELvL1d",
+            "created": "2020-08-27T10:36:21.421",
+            "name": "Confirmed BU - % Movement Limitation",
+            "shortName": "Conf BU - % Mvt Limitation",
+            "displayName": "Confirmed BU - % Movement Limitation",
+            "publicAccess": "rw------",
+            "description": "Proportion of new confirmed Buruli ulcer cases presenting limitation of movement at diagnosis, based on summary data",
+            "displayShortName": "Conf BU - % Mvt Limitation",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# confirmed BU cases with limitation of movement",
+            "displayDescription": "Proportion of new confirmed Buruli ulcer cases presenting limitation of movement at diagnosis, based on summary data",
+            "dimensionItem": "RKQ3cELvL1d",
+            "numerator": "#{OspZ6vLczQt.hUYQKGhlWFg}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_Ulcer_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "ltOrgZOhGgP",
+            "created": "2020-08-27T10:37:57.841",
+            "name": "Confirmed BU - % Ulcer",
+            "shortName": "Conf BU - % Ulcer",
+            "displayName": "Confirmed BU - % Ulcer",
+            "publicAccess": "rw------",
+            "description": "Proportion of new confirmed Buruli ulcer cases presenting ulcerative lesions at diagnosis, based on summary data",
+            "displayShortName": "Conf BU - % Ulcer",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# confirmed BU cases with ulcers",
+            "displayDescription": "Proportion of new confirmed Buruli ulcer cases presenting ulcerative lesions at diagnosis, based on summary data",
+            "dimensionItem": "ltOrgZOhGgP",
+            "numerator": "#{wQQ4Y0bee1x.hb0rNLHR187}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_CONF_U15_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "GPvmApGFXyY",
+            "created": "2020-08-27T10:56:37.352",
+            "name": "Confirmed BU - % Under 15y",
+            "shortName": "Conf BU - % U15y",
+            "displayName": "Confirmed BU - % Under 15y",
+            "publicAccess": "rw------",
+            "description": "Proportion of children under 15 years among new confirmed Buruli ulcer cases, based on summary data",
+            "displayShortName": "Conf BU - % U15y",
+            "externalAccess": false,
+            "denominatorDescription": "# confirmed BU cases",
+            "numeratorDescription": "# children under 15 years among confirmed BU cases",
+            "displayDescription": "Proportion of children under 15 years among new confirmed Buruli ulcer cases, based on summary data",
+            "dimensionItem": "GPvmApGFXyY",
+            "numerator": "#{saBRBD6j7Sx.ltWXlH5uob5} + #{saBRBD6j7Sx.QMtctoy4jdW}",
+            "denominator": "#{IjrtWEc8Oei}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_ABcompleted_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "NGA6cHWAHK2",
+            "created": "2020-08-27T10:41:11.044",
+            "name": "Suspected BU - % AB completed",
+            "shortName": "Susp BU - % AB completed",
+            "displayName": "Suspected BU - % AB completed",
+            "publicAccess": "rw------",
+            "description": "Proportion of new suspected Buruli ulcer cases having completed antibiotics treatment, based on summary data",
+            "displayShortName": "Susp BU - % AB completed",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# suspected BU cases who completed AB treatment",
+            "displayDescription": "Proportion of new suspected Buruli ulcer cases having completed antibiotics treatment, based on summary data",
+            "dimensionItem": "NGA6cHWAHK2",
+            "numerator": "#{VKA517j01KY.hUYQKGhlWFg}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_CatIII_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "xUlqhQ8Qluu",
+            "created": "2020-08-27T10:38:51.646",
+            "name": "Suspected BU - % Category III",
+            "shortName": "Susp BU - % Cat III",
+            "displayName": "Suspected BU - % Category III",
+            "publicAccess": "rw------",
+            "description": "Proportion of new suspected Buruli ulcer cases presenting category III lesions at diagnosis, based on summary data",
+            "displayShortName": "Susp BU - % Cat III",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# suspected BU cases with category III lesions",
+            "displayDescription": "Proportion of new suspected Buruli ulcer cases presenting category III lesions at diagnosis, based on summary data",
+            "dimensionItem": "xUlqhQ8Qluu",
+            "numerator": "#{srb0N3z6LA0.Sc3L01XZcJm}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_Female_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "VbNFp25dBVF",
+            "created": "2020-08-27T10:43:40.971",
+            "name": "Suspected BU - % Female",
+            "shortName": "Susp BU - % Female",
+            "displayName": "Suspected BU - % Female",
+            "publicAccess": "rw------",
+            "description": "Proportion of female among new suspected Buruli ulcer cases, based on summary data",
+            "displayShortName": "Susp BU - % Female",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# female among suspected BU cases",
+            "displayDescription": "Proportion of female among new suspected Buruli ulcer cases, based on summary data",
+            "dimensionItem": "VbNFp25dBVF",
+            "numerator": "#{wPbGvMvW7dj.O3UzQSD1w0J}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_LowLimb_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "cXkTPSL2SLr",
+            "created": "2020-08-27T12:07:43.651",
+            "name": "Suspected BU - % Lower Limbs",
+            "shortName": "Susp BU - % Lower Limbs",
+            "displayName": "Suspected BU - % Lower Limbs",
+            "publicAccess": "rw------",
+            "description": "Proportion of new suspected Buruli ulcer cases presenting lesions on the lower limbs at diagnosis, based on summary data",
+            "displayShortName": "Susp BU - % Lower Limbs",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# suspected BU cases with lesions on lower limbs",
+            "displayDescription": "Proportion of new suspected Buruli ulcer cases presenting lesions on the lower limbs at diagnosis, based on summary data",
+            "dimensionItem": "cXkTPSL2SLr",
+            "numerator": "#{OspZ6vLczQt.hUYQKGhlWFg}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_JointLim_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "MK10oXRHoG4",
+            "created": "2020-08-27T10:34:47.757",
+            "name": "Suspected BU - % Movement Limitation",
+            "shortName": "Susp BU - % Mvt Limitation",
+            "displayName": "Suspected BU - % Movement Limitation",
+            "publicAccess": "rw------",
+            "description": "Proportion of new suspected Buruli ulcer cases presenting limitation of movement at diagnosis, based on summary data",
+            "displayShortName": "Susp BU - % Mvt Limitation",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# suspected BU cases with limitation of movement",
+            "displayDescription": "Proportion of new suspected Buruli ulcer cases presenting limitation of movement at diagnosis, based on summary data",
+            "dimensionItem": "MK10oXRHoG4",
+            "numerator": "#{OspZ6vLczQt.hUYQKGhlWFg}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_Ulcer_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "ErUxqSaJPlO",
+            "created": "2020-08-27T10:37:16.104",
+            "name": "Suspected BU - % Ulcer",
+            "shortName": "Susp BU - % Ulcer",
+            "displayName": "Suspected BU - % Ulcer",
+            "publicAccess": "rw------",
+            "description": "Proportion of new suspected Buruli ulcer cases presenting ulcerative lesions at diagnosis, based on summary data",
+            "displayShortName": "Susp BU - % Ulcer",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# suspected BU cases with ulcers",
+            "displayDescription": "Proportion of new suspected Buruli ulcer cases presenting ulcerative lesions at diagnosis, based on summary data",
+            "dimensionItem": "ErUxqSaJPlO",
+            "numerator": "#{wQQ4Y0bee1x.hUYQKGhlWFg}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        },
+        {
+            "code": "IA_BU_SUSP_U15_%",
+            "lastUpdated": "2020-11-01T21:25:58.159",
+            "id": "fwarmKQDCQv",
+            "created": "2020-08-27T10:55:20.058",
+            "name": "Suspected BU - % Under 15y",
+            "shortName": "Susp BU - % U15y",
+            "displayName": "Suspected BU - % Under 15y",
+            "publicAccess": "rw------",
+            "description": "Proportion of children under 15 years among new suspected Buruli ulcer cases, based on summary data",
+            "displayShortName": "Susp BU - % U15y",
+            "externalAccess": false,
+            "denominatorDescription": "BU_EPI_AnnualCases",
+            "numeratorDescription": "# children under 15 years among suspected BU cases",
+            "displayDescription": "Proportion of children under 15 years among new suspected Buruli ulcer cases, based on summary data",
+            "dimensionItem": "fwarmKQDCQv",
+            "numerator": "#{saBRBD6j7Sx.BjDwFgwYLrC} + #{saBRBD6j7Sx.aSY3HAYwZRC}",
+            "denominator": "#{tOpVIYrnbhk}",
+            "annualized": false,
+            "decimals": 1,
+            "favorite": false,
+            "dimensionItemType": "INDICATOR",
+            "indicatorType": {
+                "id": "qpi4nN8Wkvl"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "translations": [],
+            "attributeValues": [],
+            "indicatorGroups": [
+                {
+                    "id": "ZxnfBiNlN6C"
+                }
+            ],
+            "legendSets": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "created": "2016-04-06T03:28:40.088",
+            "lastUpdated": "2020-11-01T21:25:56.534",
+            "name": "Percent",
+            "id": "qpi4nN8Wkvl",
+            "displayName": "Percent",
+            "externalAccess": false,
+            "number": false,
+            "factor": 100,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "translations": []
+        }
+    ],
+    "indicatorGroups": [
+        {
+            "created": "2020-08-27T12:01:09.542",
+            "lastUpdated": "2020-11-01T21:25:59.811",
+            "name": "Buruli ulcer indicators (aggregated)",
+            "id": "ZxnfBiNlN6C",
+            "displayName": "Buruli ulcer indicators (aggregated)",
+            "publicAccess": "rw------",
+            "externalAccess": false,
+            "favorite": false,
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "GPvmApGFXyY"
+                },
+                {
+                    "id": "lBRFDEaxUDi"
+                },
+                {
+                    "id": "kCS3GHdIcQ9"
+                },
+                {
+                    "id": "D8TeKh05msQ"
+                },
+                {
+                    "id": "fL136P7sU6J"
+                },
+                {
+                    "id": "RKQ3cELvL1d"
+                },
+                {
+                    "id": "w2xRISHNOcX"
+                },
+                {
+                    "id": "NGA6cHWAHK2"
+                },
+                {
+                    "id": "Ob8WKsIKq2X"
+                },
+                {
+                    "id": "YhT6GxOLv73"
+                },
+                {
+                    "id": "UZy7m1zTSon"
+                },
+                {
+                    "id": "rRPMIgd7usF"
+                },
+                {
+                    "id": "DjqfJ5nBxlm"
+                },
+                {
+                    "id": "fwarmKQDCQv"
+                },
+                {
+                    "id": "MK10oXRHoG4"
+                },
+                {
+                    "id": "VbNFp25dBVF"
+                },
+                {
+                    "id": "UBHvHs7yeEB"
+                },
+                {
+                    "id": "ltOrgZOhGgP"
+                },
+                {
+                    "id": "ErUxqSaJPlO"
+                },
+                {
+                    "id": "xUlqhQ8Qluu"
+                },
+                {
+                    "id": "KiSlEe9D7SZ"
+                }
+            ],
+            "translations": []
+        }
+    ],
+    "sections": [
+        {
+            "lastUpdated": "2020-11-01T21:26:03.260",
+            "id": "N0dgtWruSrh",
+            "created": "2020-08-27T10:14:19.539",
+            "name": "Age distribution",
+            "displayName": "Age distribution",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 2,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "NePI9W0zSH5"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "s4r6tNW1TRn"
+                }
+            ],
+            "dataElements": [
+                {
+                    "id": "saBRBD6j7Sx"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "fwarmKQDCQv"
+                },
+                {
+                    "id": "GPvmApGFXyY"
+                }
+            ]
+        },
+        {
+            "lastUpdated": "2020-11-01T21:26:03.260",
+            "id": "YDwjp71Iy55",
+            "created": "2020-08-27T10:13:54.341",
+            "name": "Annual cases",
+            "displayName": "Annual cases",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 1,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "NePI9W0zSH5"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [],
+            "dataElements": [
+                {
+                    "id": "tOpVIYrnbhk"
+                },
+                {
+                    "id": "IjrtWEc8Oei"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "UBHvHs7yeEB"
+                }
+            ]
+        },
+        {
+            "lastUpdated": "2020-11-01T21:26:03.260",
+            "id": "cQ4CjHFGDxz",
+            "created": "2020-08-27T10:15:09.374",
+            "name": "Clinical presentation at diagnosis",
+            "displayName": "Clinical presentation at diagnosis",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 4,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "NePI9W0zSH5"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "r8iNWVkcqxQ"
+                },
+                {
+                    "id": "VQrfHnZZn9h"
+                }
+            ],
+            "dataElements": [
+                {
+                    "id": "wQQ4Y0bee1x"
+                },
+                {
+                    "id": "OspZ6vLczQt"
+                },
+                {
+                    "id": "WF3jOySL1Hg"
+                },
+                {
+                    "id": "srb0N3z6LA0"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "ErUxqSaJPlO"
+                },
+                {
+                    "id": "MK10oXRHoG4"
+                },
+                {
+                    "id": "cXkTPSL2SLr"
+                },
+                {
+                    "id": "xUlqhQ8Qluu"
+                },
+                {
+                    "id": "ltOrgZOhGgP"
+                },
+                {
+                    "id": "RKQ3cELvL1d"
+                },
+                {
+                    "id": "dn8xvrDvKqT"
+                },
+                {
+                    "id": "w2xRISHNOcX"
+                }
+            ]
+        },
+        {
+            "lastUpdated": "2020-11-01T21:26:03.260",
+            "id": "FZsFgqGNQtA",
+            "created": "2020-08-27T10:14:28.504",
+            "name": "Gender distribution",
+            "displayName": "Gender distribution",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 3,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "NePI9W0zSH5"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "AwLbLgVvKmW"
+                }
+            ],
+            "dataElements": [
+                {
+                    "id": "wPbGvMvW7dj"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "VbNFp25dBVF"
+                },
+                {
+                    "id": "UZy7m1zTSon"
+                }
+            ]
+        },
+        {
+            "lastUpdated": "2020-11-01T21:26:03.260",
+            "id": "wvc2iV1ww79",
+            "created": "2020-08-27T10:15:21.121",
+            "name": "Treatment completion",
+            "displayName": "Treatment completion",
+            "externalAccess": false,
+            "showColumnTotals": false,
+            "sortOrder": 5,
+            "showRowTotals": false,
+            "favorite": false,
+            "dataSet": {
+                "id": "NePI9W0zSH5"
+            },
+            "lastUpdatedBy": {
+                "id": "H4atNsEuKxP"
+            },
+            "favorites": [],
+            "greyedFields": [],
+            "translations": [],
+            "categoryCombos": [
+                {
+                    "id": "VQrfHnZZn9h"
+                }
+            ],
+            "dataElements": [
+                {
+                    "id": "VKA517j01KY"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [
+                {
+                    "id": "NGA6cHWAHK2"
+                },
+                {
+                    "id": "Ob8WKsIKq2X"
+                }
+            ]
+        }
+    ]
+}
