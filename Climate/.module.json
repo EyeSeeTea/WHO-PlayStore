@@ -1,0 +1,9 @@
+{
+    "id": "G17HISnRzg1",
+    "name": "Climate",
+    "instance": "http://localhost:8080",
+    "department": {
+        "name": "GMP/VCR",
+        "id": "OEHAIvnHRxz"
+    }
+}
