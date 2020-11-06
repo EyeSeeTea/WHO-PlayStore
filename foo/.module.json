@@ -1,0 +1,9 @@
+{
+    "id": "xyH9bAeDFVC",
+    "name": "foo",
+    "instance": "http://dev2.eyeseetea.com:8084",
+    "department": {
+        "name": "IT maintenance team",
+        "id": "BwyMfDBLih9"
+    }
+}
