@@ -1,0 +1,60 @@
+{
+    "package": {
+        "id": "UBbd2xW3EfW",
+        "name": "test from file 1",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "a5pl1duEzGy",
+            "name": "sqlview.json",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-06T11:02:03.817Z",
+        "lastUpdated": "2020-11-06T11:02:18.644Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "sqlViews": [
+        {
+            "metadataType": "sqlViews",
+            "created": "2020-10-18T10:30:24.174",
+            "lastUpdated": "2020-11-05T05:49:21.331",
+            "name": "NHWA Module 1 Subnational correct org unit name",
+            "id": "buZ8poY0ZzX",
+            "sqlQuery": "SELECT ouparent.shortname as orgunitparent,\n   date_part('year', pe.startdate)::text  AS period,\n   ou.shortname AS orgunitname,\n   dv.value,\n   de.uid AS dataelement,\n   co.uid AS categoryoptioncombo,\n    ou.uid AS orgunit\nFROM datavalue dv\n     LEFT JOIN dataelement de ON dv.dataelementid = de.dataelementid\n     LEFT JOIN organisationunit ou ON dv.sourceid = ou.organisationunitid\n     LEFT JOIN period pe ON dv.periodid = pe.periodid\n     LEFT JOIN categoryoptioncombo co ON dv.categoryoptioncomboid = co.categoryoptioncomboid\n LEFT JOIN organisationunit ouparent ON ou.parentid = ouparent.organisationunitid\n  WHERE (ou.uid IN ( SELECT ou_1.uid\n           FROM dataset ds\n             LEFT JOIN datasetsource dss ON ds.datasetid = dss.datasetid\n             LEFT JOIN organisationunit ou_1 ON dss.sourceid = ou_1.organisationunitid\n          WHERE ds.uid = 'Humg4HbkmJg'))  and de.uid = 'ZUCnSGgjlrw' and value != ou.shortname;",
+            "displayName": "NHWA Module 1 Subnational correct org unit name",
+            "publicAccess": "rw------",
+            "type": "VIEW",
+            "externalAccess": false,
+            "cacheStrategy": "NO_CACHE",
+            "favorite": false,
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "user": {},
+            "favorites": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "translations": [],
+            "userAccesses": []
+        }
+    ]
+}
