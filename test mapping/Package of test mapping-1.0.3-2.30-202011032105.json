@@ -85,7 +85,7 @@
             "id": "jIrseIMc0Eo",
             "created": "2020-10-06T07:13:41.948",
             "name": "test",
-            "shortName": "test",
+            "shortName": "test2",
             "aggregationType": "SUM",
             "domainType": "AGGREGATE",
             "displayName": "test",
