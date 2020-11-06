@@ -1,0 +1,9 @@
+{
+    "id": "a5pl1duEzGy",
+    "name": "sqlview.json",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "Malaria access",
+        "id": "ZXEVDM9XRea"
+    }
+}
