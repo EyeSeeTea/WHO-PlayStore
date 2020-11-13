@@ -1,0 +1,149 @@
+{
+    "package": {
+        "id": "VKnYFTY9BMw",
+        "name": "A Package of Test DS T001",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.32",
+        "module": {
+            "id": "bzZRAXG4sEC",
+            "name": "Test DS T001.json",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-13T10:41:02.756Z",
+        "lastUpdated": "2020-11-13T10:41:35.712Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "metadataType": "dataSets",
+            "lastUpdated": "2020-11-13T10:38:15.821",
+            "id": "Kf4UDzOgOM2",
+            "created": "2020-11-13T10:38:15.821",
+            "name": "Test DS T001",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "displayFormName": "Test DS T001",
+            "version": 0,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "Test DS T001",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "Kf4UDzOgOM2",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": false,
+                "delete": true,
+                "write": true,
+                "manage": true,
+                "data": {
+                    "read": false,
+                    "write": false
+                }
+            },
+            "user": {},
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "Jife53wJR78"
+                    },
+                    "dataSet": {
+                        "id": "Kf4UDzOgOM2"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": []
+        }
+    ],
+    "dataElements": [
+        {
+            "metadataType": "dataElements",
+            "code": "Test T001",
+            "lastUpdated": "2020-11-13T10:38:35.246",
+            "id": "Jife53wJR78",
+            "created": "2020-11-13T10:37:34.168",
+            "name": "Test DE T001",
+            "shortName": "Test T001",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "Test DE T001",
+            "publicAccess": "rw------",
+            "displayShortName": "Test T001",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "Jife53wJR78",
+            "displayFormName": "Test DE T001",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": false,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "lastUpdatedBy": {},
+            "user": {},
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "Jife53wJR78"
+                    },
+                    "dataSet": {
+                        "id": "Kf4UDzOgOM2"
+                    }
+                }
+            ],
+            "translations": [],
+            "userGroupAccesses": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ]
+}
