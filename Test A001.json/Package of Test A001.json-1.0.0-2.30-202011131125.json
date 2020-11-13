@@ -1,0 +1,148 @@
+{
+    "package": {
+        "id": "KwMrTdRUX8z",
+        "name": "Package of Test A001.json",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "UKYv7v0nxLZ",
+            "name": "Test A001.json",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria access",
+                "id": "ZXEVDM9XRea"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-13T10:25:18.392Z",
+        "lastUpdated": "2020-11-13T10:25:55.822Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "metadataType": "dataSets",
+            "lastUpdated": "2020-11-13T10:21:42.516",
+            "id": "A1qVFU4g5sV",
+            "created": "2020-11-13T10:17:48.629",
+            "name": "Test A001",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 1,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "Test A001",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "K7qVFU4g5sV",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true,
+                "data": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "user": {},
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "A2D6vNWcCjO"
+                    },
+                    "dataSet": {
+                        "id": "A1qVFU4g5sV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": []
+        }
+    ],
+    "dataElements": [
+        {
+            "metadataType": "dataElements",
+            "code": "Test DE 001",
+            "lastUpdated": "2020-11-13T10:19:25.126",
+            "id": "A2D6vNWcCjO",
+            "created": "2020-11-13T10:19:25.126",
+            "name": "Test DE 001",
+            "shortName": "Test DE 001",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "Test DE 001",
+            "publicAccess": "rw------",
+            "displayShortName": "Test DE 001",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "kCD6vNWcCjO",
+            "displayFormName": "Test DE 001",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "lastUpdatedBy": {},
+            "user": {},
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "A2D6vNWcCjO"
+                    },
+                    "dataSet": {
+                        "id": "A1qVFU4g5sV"
+                    }
+                }
+            ],
+            "translations": [],
+            "userGroupAccesses": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ]
+}
