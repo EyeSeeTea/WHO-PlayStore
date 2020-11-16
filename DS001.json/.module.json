@@ -1,0 +1,9 @@
+{
+    "id": "Z191CE3C8r8",
+    "name": "DS001.json",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "Malaria admin",
+        "id": "suMb19wGXPR"
+    }
+}
