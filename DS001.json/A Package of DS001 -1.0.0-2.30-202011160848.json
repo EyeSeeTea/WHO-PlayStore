@@ -1,0 +1,212 @@
+{
+    "package": {
+        "id": "HqrYzypodbi",
+        "name": "A Package of DS001 ",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "Z191CE3C8r8",
+            "name": "DS001.json",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "Malaria admin",
+                "id": "suMb19wGXPR"
+            }
+        },
+        "user": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        },
+        "created": "2020-11-16T07:48:45.022Z",
+        "lastUpdated": "2020-11-16T07:49:08.789Z",
+        "lastUpdatedBy": {
+            "id": "M5zQapPyTZI",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "metadataType": "dataSets",
+            "lastUpdated": "2020-11-16T07:27:27.558",
+            "id": "DtUfHF4C4Vn",
+            "created": "2020-11-16T07:15:47.434",
+            "name": "DS 001",
+            "validCompleteOnly": false,
+            "publicAccess": "rw------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "displayFormName": "DS 001",
+            "version": 4,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "DS 001",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "DtUfHF4C4Vn",
+            "mobile": false,
+            "periodType": "Monthly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": false,
+                "delete": true,
+                "write": true,
+                "manage": true,
+                "data": {
+                    "read": false,
+                    "write": false
+                }
+            },
+            "user": {},
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "CoSfmWQjVIM"
+                    },
+                    "dataSet": {
+                        "id": "DtUfHF4C4Vn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfDhUikuFLV"
+                    },
+                    "dataSet": {
+                        "id": "DtUfHF4C4Vn"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": [
+                {
+                    "id": "O6uvpzGd5pu"
+                },
+                {
+                    "id": "ImspTQPwCqd"
+                }
+            ]
+        }
+    ],
+    "dataElements": [
+        {
+            "metadataType": "dataElements",
+            "lastUpdated": "2020-11-16T07:15:14.810",
+            "id": "CoSfmWQjVIM",
+            "created": "2020-11-16T07:15:14.810",
+            "name": "DT 001",
+            "shortName": "DT 001",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "DT 001",
+            "publicAccess": "rw------",
+            "displayShortName": "DT 001",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "CoSfmWQjVIM",
+            "displayFormName": "DT 001",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": false,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "lastUpdatedBy": {},
+            "user": {},
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "CoSfmWQjVIM"
+                    },
+                    "dataSet": {
+                        "id": "DtUfHF4C4Vn"
+                    }
+                }
+            ],
+            "translations": [],
+            "userGroupAccesses": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "metadataType": "dataElements",
+            "lastUpdated": "2020-11-16T07:15:25.292",
+            "id": "kfDhUikuFLV",
+            "created": "2020-11-16T07:15:25.292",
+            "name": "DT 002",
+            "shortName": "DT 002",
+            "aggregationType": "SUM",
+            "domainType": "AGGREGATE",
+            "displayName": "DT 002",
+            "publicAccess": "rw------",
+            "displayShortName": "DT 002",
+            "externalAccess": false,
+            "valueType": "NUMBER",
+            "dimensionItem": "kfDhUikuFLV",
+            "displayFormName": "DT 002",
+            "zeroIsSignificant": false,
+            "favorite": false,
+            "optionSetValue": false,
+            "dimensionItemType": "DATA_ELEMENT",
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": false,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "lastUpdatedBy": {},
+            "user": {},
+            "favorites": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "kfDhUikuFLV"
+                    },
+                    "dataSet": {
+                        "id": "DtUfHF4C4Vn"
+                    }
+                }
+            ],
+            "translations": [],
+            "userGroupAccesses": [],
+            "dataElementGroups": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ]
+}
