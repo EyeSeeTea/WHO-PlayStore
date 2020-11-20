@@ -1,0 +1,9 @@
+{
+    "id": "YiDEHPSacw0",
+    "name": "Module dashboards",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "ETA administrators",
+        "id": "Urx6COfeLkm"
+    }
+}
