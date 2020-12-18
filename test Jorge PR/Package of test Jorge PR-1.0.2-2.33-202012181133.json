@@ -1,0 +1,124 @@
+{
+    "package": {
+        "id": "H6xTidaJhwN",
+        "name": "Package of test Jorge PR",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.2",
+        "dhisVersion": "2.33",
+        "module": {
+            "id": "mrmEvYwMDJg",
+            "name": "test Jorge PR",
+            "instance": "http://dev2.eyeseetea.com:8088",
+            "department": {
+                "name": "Administrators",
+                "id": "LjRqO9XzQPs"
+            }
+        },
+        "user": {
+            "id": "Q7lEw9NnaKS",
+            "name": "admin admin"
+        },
+        "created": "2020-12-18T11:33:34.790Z",
+        "lastUpdated": "2020-12-18T11:33:37.710Z",
+        "lastUpdatedBy": {
+            "id": "Q7lEw9NnaKS",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "q3tDcUswA9E",
+            "name": "test with bugs",
+            "mobile": false,
+            "created": "2020-12-17T08:23:09.653",
+            "version": 0,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Monthly",
+            "timelyDays": 15,
+            "displayName": "test with bugs",
+            "lastUpdated": "2020-12-17T08:23:09.653",
+            "skipOffline": false,
+            "publicAccess": "rw------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "q3tDcUswA9E",
+            "lastUpdatedBy": {
+                "id": "Q7lEw9NnaKS"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "q3tDcUswA9E"
+                    },
+                    "dataElement": {
+                        "id": "R1Ju33fTvMS"
+                    }
+                }
+            ],
+            "displayFormName": "test with bugs",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "validCompleteOnly": false,
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "R1Ju33fTvMS",
+            "name": "test bugs",
+            "created": "2020-12-17T08:22:41.531",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "test bugs",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "test bugs",
+            "lastUpdated": "2020-12-17T08:22:41.531",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "R1Ju33fTvMS",
+            "lastUpdatedBy": {
+                "id": "Q7lEw9NnaKS"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "q3tDcUswA9E"
+                    },
+                    "dataElement": {
+                        "id": "R1Ju33fTvMS"
+                    }
+                }
+            ],
+            "displayFormName": "test bugs",
+            "displayShortName": "test bugs",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ]
+}
