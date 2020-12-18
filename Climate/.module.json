@@ -3,7 +3,7 @@
     "name": "Climate",
     "instance": "http://dev2.eyeseetea.com:8085",
     "department": {
-        "name": "Administrators",
-        "id": "LjRqO9XzQPs"
+        "id": "LjRqO9XzQPs",
+        "name": "Administrators"
     }
 }
