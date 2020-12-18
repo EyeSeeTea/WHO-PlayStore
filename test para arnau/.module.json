@@ -1,0 +1,9 @@
+{
+    "id": "yWTlOFXwFSv",
+    "name": "test para arnau",
+    "instance": "http://dev2.eyeseetea.com:8085",
+    "department": {
+        "name": "CC access",
+        "id": "dDI3HYmyK3l"
+    }
+}
