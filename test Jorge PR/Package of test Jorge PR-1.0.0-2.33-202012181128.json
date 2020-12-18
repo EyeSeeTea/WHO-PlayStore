@@ -1,0 +1,1087 @@
+{
+    "package": {
+        "id": "Siv0MQUQq0S",
+        "name": "Package of test Jorge PR",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.0",
+        "dhisVersion": "2.33",
+        "module": {
+            "id": "mrmEvYwMDJg",
+            "name": "test Jorge PR",
+            "instance": "http://dev2.eyeseetea.com:8088",
+            "department": {
+                "name": "Administrators",
+                "id": "LjRqO9XzQPs"
+            }
+        },
+        "user": {
+            "id": "Q7lEw9NnaKS",
+            "name": "admin admin"
+        },
+        "created": "2020-12-18T11:28:13.382Z",
+        "lastUpdated": "2020-12-18T11:28:17.354Z",
+        "lastUpdatedBy": {
+            "id": "Q7lEw9NnaKS",
+            "name": "admin admin"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "v6hCzYgjqq3",
+            "code": "DS_CHd",
+            "name": "Cholera Outbreak - Daily ",
+            "mobile": false,
+            "created": "2015-04-23T14:17:25.096",
+            "version": 42,
+            "favorite": false,
+            "formType": "SECTION",
+            "sections": [
+                {
+                    "id": "bIE03EFuPHt"
+                },
+                {
+                    "id": "h84npHZ4mmD"
+                },
+                {
+                    "id": "Tr24cVTV6MF"
+                }
+            ],
+            "favorites": [],
+            "shortName": "Cholera Outbreak - Daily ",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Daily",
+            "timelyDays": 0,
+            "description": "Cholera Outbreak - Daily ",
+            "displayName": "Cholera Outbreak - Daily ",
+            "lastUpdated": "2020-02-20T09:09:12.905",
+            "skipOffline": false,
+            "publicAccess": "rwr-----",
+            "renderAsTabs": true,
+            "translations": [
+                {
+                    "value": "Surto de Cólera - Diário",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Flambée de Choléra - Journalier",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Brote de Cólera - Diario",
+                    "locale": "es",
+                    "property": "NAME"
+                }
+            ],
+            "dimensionItem": "v6hCzYgjqq3",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "attributeValues": [
+                {
+                    "value": "false",
+                    "attribute": {
+                        "id": "Re2UlY7OGO4"
+                    }
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "u23TODO5lgp"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "iQxStM1uZWH"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "lqsTkbKXFmW"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "nO4F3tNyxtd"
+                    }
+                }
+            ],
+            "displayFormName": "Cholera Outbreak - Daily ",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Cholera Outbreak - Daily ",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 7,
+            "organisationUnits": [
+                {
+                    "id": "gTiwfjLpeye"
+                },
+                {
+                    "id": "VH1HVbREKhJ"
+                },
+                {
+                    "id": "UBOY4U8qYtr"
+                },
+                {
+                    "id": "yO9deReCAzq"
+                },
+                {
+                    "id": "u7jsSjdeI9I"
+                },
+                {
+                    "id": "DBXMuDYdAWv"
+                },
+                {
+                    "id": "G7g4TvbjFlX"
+                },
+                {
+                    "id": "t5HBf03oEM8"
+                },
+                {
+                    "id": "ITugvMkUuMO"
+                }
+            ],
+            "validCompleteOnly": false,
+            "displayDescription": "Cholera Outbreak - Daily ",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": true,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "sections": [
+        {
+            "id": "Tr24cVTV6MF",
+            "name": "Comments",
+            "created": "2016-02-03T16:42:42.633",
+            "dataSet": {
+                "id": "v6hCzYgjqq3"
+            },
+            "favorite": false,
+            "favorites": [],
+            "sortOrder": 102,
+            "indicators": [],
+            "displayName": "Comments",
+            "lastUpdated": "2019-01-23T12:50:22.982",
+            "dataElements": [
+                {
+                    "id": "lqsTkbKXFmW"
+                }
+            ],
+            "greyedFields": [],
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "showRowTotals": false,
+            "categoryCombos": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "showColumnTotals": false
+        },
+        {
+            "id": "h84npHZ4mmD",
+            "name": "Community level",
+            "created": "2015-04-23T14:21:08.509",
+            "dataSet": {
+                "id": "v6hCzYgjqq3"
+            },
+            "favorite": false,
+            "favorites": [],
+            "sortOrder": 101,
+            "indicators": [],
+            "displayName": "Community level",
+            "lastUpdated": "2019-01-23T12:50:22.982",
+            "dataElements": [
+                {
+                    "id": "nO4F3tNyxtd"
+                }
+            ],
+            "greyedFields": [],
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "showRowTotals": true,
+            "categoryCombos": [],
+            "externalAccess": false,
+            "attributeValues": [],
+            "showColumnTotals": false
+        },
+        {
+            "id": "bIE03EFuPHt",
+            "name": "Health Facility (CTC/CTU) level",
+            "created": "2015-04-23T14:21:05.380",
+            "dataSet": {
+                "id": "v6hCzYgjqq3"
+            },
+            "favorite": false,
+            "favorites": [],
+            "sortOrder": 100,
+            "indicators": [],
+            "displayName": "Health Facility (CTC/CTU) level",
+            "lastUpdated": "2019-01-23T12:50:22.997",
+            "dataElements": [
+                {
+                    "id": "u23TODO5lgp"
+                },
+                {
+                    "id": "iQxStM1uZWH"
+                }
+            ],
+            "greyedFields": [],
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "showRowTotals": true,
+            "categoryCombos": [
+                {
+                    "id": "P0gNiRHpGIN"
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "showColumnTotals": false
+        }
+    ],
+    "attributes": [
+        {
+            "id": "zC3TBJnSxar",
+            "name": "ICD-10 code",
+            "unique": false,
+            "created": "2017-08-28T11:18:40.033",
+            "favorite": false,
+            "favorites": [],
+            "mandatory": false,
+            "valueType": "TEXT",
+            "displayName": "ICD-10 code",
+            "lastUpdated": "2020-01-31T10:49:43.411",
+            "publicAccess": "rw------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "userAttribute": false,
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "ICD-10 code",
+            "optionAttribute": false,
+            "dataSetAttribute": false,
+            "programAttribute": false,
+            "sectionAttribute": false,
+            "sqlViewAttribute": false,
+            "categoryAttribute": false,
+            "constantAttribute": false,
+            "documentAttribute": false,
+            "indicatorAttribute": false,
+            "legendSetAttribute": false,
+            "optionSetAttribute": false,
+            "userGroupAttribute": false,
+            "dataElementAttribute": true,
+            "programStageAttribute": false,
+            "categoryOptionAttribute": false,
+            "indicatorGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "dataElementGroupAttribute": false,
+            "organisationUnitAttribute": false,
+            "programIndicatorAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "organisationUnitGroupSetAttribute": false
+        },
+        {
+            "id": "Re2UlY7OGO4",
+            "name": "hideInTallySheet",
+            "unique": false,
+            "created": "2019-01-21T11:01:11.995",
+            "favorite": false,
+            "favorites": [],
+            "mandatory": false,
+            "shortName": "hideInTallySheet",
+            "valueType": "BOOLEAN",
+            "displayName": "hideInTallySheet",
+            "lastUpdated": "2020-01-31T10:49:43.411",
+            "publicAccess": "rw------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "userAttribute": false,
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "hideInTallySheet",
+            "optionAttribute": false,
+            "dataSetAttribute": true,
+            "displayShortName": "hideInTallySheet",
+            "programAttribute": false,
+            "sectionAttribute": false,
+            "sqlViewAttribute": false,
+            "categoryAttribute": false,
+            "constantAttribute": false,
+            "documentAttribute": false,
+            "indicatorAttribute": false,
+            "legendSetAttribute": false,
+            "optionSetAttribute": false,
+            "userGroupAttribute": false,
+            "dataElementAttribute": false,
+            "programStageAttribute": false,
+            "categoryOptionAttribute": false,
+            "indicatorGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "dataElementGroupAttribute": false,
+            "organisationUnitAttribute": false,
+            "programIndicatorAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "organisationUnitGroupSetAttribute": false
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "u23TODO5lgp",
+            "code": "DIA218",
+            "name": "Cholera Outbreak: cases INSIDE health facility",
+            "created": "2015-10-30T09:34:06.289",
+            "favorite": false,
+            "formName": "Cases IN the health facility",
+            "favorites": [],
+            "shortName": "Cholera: Cases INSIDE health facility",
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "New cases  within a health facility (CTC/CTU or other) during an ongoing outbreak :  CONFIRMED cases (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)",
+            "displayName": "Cholera Outbreak: cases INSIDE health facility",
+            "lastUpdated": "2019-10-25T15:53:46.234",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Flambée de choléra : Cas DANS l'établissement de santé",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Epidemia de cólera: casos DENTRO da unidade de saúde",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Nuevos casos dentro del centro sanitario (CTC/CTU u otros) durante un brote activo:  Casos CONFIRMADOS (diagnóstico de laboratorio) y SOSPECHOSOS (en áreas sin casos de cólera conocidos: deshidratación grave o muerte por diarrea líquida aguda en >5 años; en áreas con epidemia activa: diarrea líquida aguda con o sin vómitos en >5 años; en áreas donde el cólera es endémico o estacional: definición Ministerio de Salud)",
+                    "locale": "es",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Cas DANS l'établissement de santé",
+                    "locale": "fr",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Casos EN en el centro sanitario",
+                    "locale": "es",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Brote de cólera: casos DENTRO del centro sanitario",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Novos casos dentro de uma unidade de saúde (CTC/UTC ou outras) durante uma epidemia em curso:  Casos CONFIRMADOS (diagnóstico laboratorial) e casos SUSPEITOS (Para zonas sem cólera conhecida: desidratação grave ou morte por diarreia líquida aguda em pessoas > 5 anos; Para zonas com epidemia em curso: diarreia líquida aguda com ou sem vómitos em pessoas > 5 anos; Para as zonas onde a cólera é sazonal/endémica: (definição do Ministério da Saúde)",
+                    "locale": "pt",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Cólera: Casos DENTRO da unidade de saúde",
+                    "locale": "pt",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Nouveaux cas survenus dans un établissement de santé (CTC/UTC ou autres) lors d'une flambée de choléra :  cas CONFIRMÉS (diagnostic de laboratoire) et cas SUSPECTS (dans des zones où le choléra n?est pas connu : déshydratation sévère ou décès par diarrhée aqueuse aiguë chez les +5 ans ; dans des zones où la flambée est en cours : diarrhée aqueuse aiguë, avec ou sans vomissements, chez les +5 ans ; dans les zones où le choléra est saisonnier/endémique : définition du ministère de la Santé)",
+                    "locale": "fr",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Cólera: Casos DENTRO  del centro sanitario",
+                    "locale": "es",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Casos DENTRO da unidade de saúde",
+                    "locale": "pt",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Choléra : Cas AU SEIN DE l'établissement de santé",
+                    "locale": "fr",
+                    "property": "SHORT_NAME"
+                }
+            ],
+            "categoryCombo": {
+                "id": "P0gNiRHpGIN"
+            },
+            "dimensionItem": "u23TODO5lgp",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [
+                {
+                    "value": "A00.9",
+                    "attribute": {
+                        "id": "zC3TBJnSxar"
+                    }
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "eOJVfUcfjaQ"
+                    },
+                    "dataElement": {
+                        "id": "u23TODO5lgp"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "u23TODO5lgp"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                }
+            ],
+            "displayFormName": "Cases IN the health facility",
+            "displayShortName": "Cholera: Cases INSIDE health facility",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "hFn51azD3yc"
+                },
+                {
+                    "id": "fTT0okdPIvk"
+                },
+                {
+                    "id": "XiY3DWrn4z3"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "New cases  within a health facility (CTC/CTU or other) during an ongoing outbreak :  CONFIRMED cases (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)"
+        },
+        {
+            "id": "iQxStM1uZWH",
+            "code": "MOR13",
+            "name": "Cholera Outbreak: deaths INSIDE health facility",
+            "created": "2015-10-30T10:18:56.282",
+            "favorite": false,
+            "formName": "Deaths IN health facility",
+            "favorites": [],
+            "shortName": "Cholera: deaths INSIDE health facility",
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "New fatalities INSIDE a health facility  during an ongoing outbreak in patients previously reported as  CONFIRMED (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)",
+            "displayName": "Cholera Outbreak: deaths INSIDE health facility",
+            "lastUpdated": "2019-10-25T15:53:46.234",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Mortes NA unidade de saúde",
+                    "locale": "pt",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Cólera: Mortes DENTRO da unidade de saúde",
+                    "locale": "pt",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Novas mortes DENTRO de uma unidade de saúde (a nível comunitário) durante uma epidemia de cólera em doentes previamente reportados como CONFIRMADOS (diagnóstico laboratorial) e casos SUSPEITOS (Para zonas sem cólera conhecida: desidratação grave ou morte por diarreia líquida aguda em pessoas > 5 anos; Para zonas com epidemia em curso: diarreia líquida aguda com ou sem vómitos em pessoas > 5 anos; Para as zonas onde a cólera é sazonal/endémica: (definição do Ministério da Saúde)",
+                    "locale": "pt",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Flambée de choléra : Décès DANS l'établissement de santé",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Epidemia de cólera: mortes DENTRO da unidade de saúde",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Muertes EN en el centro sanitario",
+                    "locale": "es",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Brote de cólera: muertes DENTRO del centro sanitario",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Choléra : Décès DANS l'établissement de santé",
+                    "locale": "fr",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Décès survenus DANS un établissement de santé au cours d'une flambée de choléra chez des patients préalablement signalés comme cas CONFIRMÉS (diagnostic de laboratoire) et SUSPECTS (dans des zones où le choléra n?est pas connu : déshydratation sévère ou décès par diarrhée aqueuse aiguë chez les +5 ans ; dans des zones où la flambée est en cours : diarrhée aqueuse aiguë, avec ou sans vomissements, chez les +5 ans ; dans les zones où le choléra est saisonnier/endémique : définition du ministère de la Santé)",
+                    "locale": "fr",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Décès DANS l'établissement de santé",
+                    "locale": "fr",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Nuevas muertes DENTRO de una un centro sanitario durante un brote activo en pacientes previamente notificados como casos CONFIRMADOS (diagnóstico de laboratorio) y SOSPECHOSOS (en áreas sin casos de cólera conocidos: deshidratación grave o muerte por diarrea líquida aguda en >5 años; en áreas con epidemia activa: diarrea líquida aguda con o sin vómitos en >5 años; en áreas donde el cólera es endémico o estacional: definición Ministerio de Salud)",
+                    "locale": "es",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Cólera: muertes DENTRO del centro sanitario",
+                    "locale": "es",
+                    "property": "SHORT_NAME"
+                }
+            ],
+            "categoryCombo": {
+                "id": "P0gNiRHpGIN"
+            },
+            "dimensionItem": "iQxStM1uZWH",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [
+                {
+                    "value": "A00.9",
+                    "attribute": {
+                        "id": "zC3TBJnSxar"
+                    }
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "eOJVfUcfjaQ"
+                    },
+                    "dataElement": {
+                        "id": "iQxStM1uZWH"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "iQxStM1uZWH"
+                    },
+                    "categoryCombo": {
+                        "id": "P0gNiRHpGIN"
+                    }
+                }
+            ],
+            "displayFormName": "Deaths IN health facility",
+            "displayShortName": "Cholera: deaths INSIDE health facility",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "hFn51azD3yc"
+                },
+                {
+                    "id": "fTT0okdPIvk"
+                },
+                {
+                    "id": "XiY3DWrn4z3"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "New fatalities INSIDE a health facility  during an ongoing outbreak in patients previously reported as  CONFIRMED (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)"
+        },
+        {
+            "id": "nO4F3tNyxtd",
+            "code": "CH1",
+            "name": "Cholera Outbreak: deaths OUTSIDE health facility",
+            "created": "2015-10-30T09:24:24.947",
+            "favorite": false,
+            "formName": "Deaths OUT of health facility",
+            "favorites": [],
+            "shortName": "Cholera: deaths OUTSIDE health facility",
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "New fatalities OUTSIDE a health facility (community level) during an ongoing cholera outbreak in individuals previously reported as  CONFIRMED (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)      ",
+            "displayName": "Cholera Outbreak: deaths OUTSIDE health facility",
+            "lastUpdated": "2019-10-25T15:53:46.234",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Muertes FUERA del centro sanitario",
+                    "locale": "es",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Nuevas muertes FUERA de una un centro sanitario (nivel comunitario) durante un brote de cólera activo en pacientes previamente notificados como casos CONFIRMADOS (diagnóstico de laboratorio) y SOSPECHOSOS (en áreas sin casos de cólera conocidos: deshidratación grave o muerte por diarrea líquida aguda en >5 años; en áreas con epidemia activa: diarrea líquida aguda con o sin vómitos en >5 años; en áreas donde el cólera es endémico o estacional: definición Ministerio de Salud)      ",
+                    "locale": "es",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Décès EN DEHORS de l'établissement de santé",
+                    "locale": "fr",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Mortes FORA da unidade de saúde",
+                    "locale": "pt",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Cólera: Mortes FORA da unidade de saúde",
+                    "locale": "pt",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Cólera: muertes FUERA del centro sanitario",
+                    "locale": "es",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Flambée de choléra : décès EN DEHORS de l'établissement de santé",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Choléra : décès EN DEHORS de l'établissement de santé",
+                    "locale": "fr",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Nouveaux décès survenus EN DEHORS d'un établissement de santé (niveau communautaire) au cours d'une flambée de choléra chez les personnes préalablement signalées comme cas CONFIRMÉS (diagnostic de laboratoire) et SUSPECTS (dans des zones où le choléra n?est pas connu : déshydratation sévère ou décès par diarrhée aqueuse aiguë chez les +5 ans ; dans des zones où le flambée est en cours : diarrhée aqueuse aiguë, avec ou sans vomissements, chez les +5 ans ; dans les zones où le choléra est saisonnier/endémique : définition du ministère de la Santé)      ",
+                    "locale": "fr",
+                    "property": "DESCRIPTION"
+                },
+                {
+                    "value": "Brote de cólera: muertes FUERA del centro sanitario",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Epidemia de cólera: mortes FORA da unidade de saúde",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Novas mortes FORA de uma unidade de saúde (a nível comunitário) durante uma epidemia de cólera em doentes previamente reportados como CONFIRMADOS (diagnóstico laboratorial) e casos SUSPEITOS (Para zonas sem cólera conhecida: desidratação grave ou morte por diarreia líquida aguda em pessoas > 5 anos; Para zonas com epidemia em curso: diarreia líquida aguda com ou sem vómitos em pessoas > 5 anos; Para as zonas onde a cólera é sazonal/endémica: (definição do Ministério da Saúde)      ",
+                    "locale": "pt",
+                    "property": "DESCRIPTION"
+                }
+            ],
+            "dimensionItem": "nO4F3tNyxtd",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "eOJVfUcfjaQ"
+                    },
+                    "dataElement": {
+                        "id": "nO4F3tNyxtd"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "nO4F3tNyxtd"
+                    }
+                }
+            ],
+            "displayFormName": "Deaths OUT of health facility",
+            "displayShortName": "Cholera: deaths OUTSIDE health facility",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "fTT0okdPIvk"
+                },
+                {
+                    "id": "XiY3DWrn4z3"
+                },
+                {
+                    "id": "sXbxsuETDiR"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "New fatalities OUTSIDE a health facility (community level) during an ongoing cholera outbreak in individuals previously reported as  CONFIRMED (Lab diagnosis) and  SUSPECTED cases (For areas with no cholera known: severe dehydration or death from acute watery diarrhoea in >5 yr;  For areas with ongoing epidemic: acute watery diarrhoea with or without vomiting in >5 yr;  For areas where cholera is seasonal/endemic: MoH definition)      "
+        },
+        {
+            "id": "lqsTkbKXFmW",
+            "code": "DE_DS_CH_2",
+            "name": "Comments DS_CH_2",
+            "created": "2016-02-03T16:42:40.232",
+            "favorite": false,
+            "formName": "Comments",
+            "favorites": [],
+            "shortName": "Comments DS_CH_2",
+            "valueType": "LONG_TEXT",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "Comments DS_CH_2",
+            "lastUpdated": "2019-10-25T15:53:46.250",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Comentarios DS_CH_2",
+                    "locale": "es",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Commentaires DS_CH_2",
+                    "locale": "fr",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Comentarios DS_CH_2",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Notas DS_CH_2",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Commentaires",
+                    "locale": "fr",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Notas DS_CH_2",
+                    "locale": "pt",
+                    "property": "SHORT_NAME"
+                },
+                {
+                    "value": "Commentaires DS_CH_2",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Comentarios",
+                    "locale": "es",
+                    "property": "FORM_NAME"
+                },
+                {
+                    "value": "Notas",
+                    "locale": "pt",
+                    "property": "FORM_NAME"
+                }
+            ],
+            "dimensionItem": "lqsTkbKXFmW",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "eOJVfUcfjaQ"
+                    },
+                    "dataElement": {
+                        "id": "lqsTkbKXFmW"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "v6hCzYgjqq3"
+                    },
+                    "dataElement": {
+                        "id": "lqsTkbKXFmW"
+                    }
+                }
+            ],
+            "displayFormName": "Comments",
+            "displayShortName": "Comments DS_CH_2",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "fTT0okdPIvk"
+                },
+                {
+                    "id": "XiY3DWrn4z3"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "id": "fTT0okdPIvk",
+            "code": "DEG_eOJVfUcfjaQ",
+            "name": "Cholera Outbreak",
+            "created": "2019-01-21T19:01:40.839",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Cholera Outbreak",
+            "legendSets": [],
+            "displayName": "Cholera Outbreak",
+            "lastUpdated": "2019-01-23T12:46:08.949",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Brote de Cólera",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Flambée de Choléra",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Surto de Cólera",
+                    "locale": "pt",
+                    "property": "NAME"
+                }
+            ],
+            "dimensionItem": "fTT0okdPIvk",
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "externalAccess": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "displayFormName": "Cholera Outbreak",
+            "displayShortName": "Cholera Outbreak",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        },
+        {
+            "id": "hFn51azD3yc",
+            "code": "DEG_eOJVfUcfjaQ.zdpA1DXFR9P",
+            "name": "Cholera Outbreak - Health Facility (CTC/CTU) level",
+            "created": "2019-01-21T19:01:40.339",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Cholera Oua Outbreak.Health Facility (CTCTU) level",
+            "legendSets": [],
+            "displayName": "Cholera Outbreak - Health Facility (CTC/CTU) level",
+            "lastUpdated": "2019-01-23T12:46:08.949",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Brote de Cólera - Nivel de establecimiento de salud (CTC/UTC)",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Flambée de Choléra - Niveau de structure de santé (CTC / UTC)",
+                    "locale": "fr",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Surto de Cólera - Unidade de saúde (CTC/UTC) nivel",
+                    "locale": "pt",
+                    "property": "NAME"
+                }
+            ],
+            "dimensionItem": "hFn51azD3yc",
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "externalAccess": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "displayFormName": "Cholera Outbreak - Health Facility (CTC/CTU) level",
+            "displayShortName": "Cholera Oua Outbreak.Health Facility (CTCTU) level",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        },
+        {
+            "id": "XiY3DWrn4z3",
+            "code": "active",
+            "name": "Z_Active",
+            "created": "2018-01-16T07:40:32.798",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [
+                {
+                    "id": "FiVVdFCnZEZ"
+                }
+            ],
+            "shortName": "Z_Active",
+            "legendSets": [],
+            "displayName": "Z_Active",
+            "lastUpdated": "2020-01-31T10:52:01.097",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "XiY3DWrn4z3",
+            "lastUpdatedBy": {
+                "id": "AoBnmh6ZGSE"
+            },
+            "externalAccess": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "displayFormName": "Z_Active",
+            "displayShortName": "Z_Active",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        },
+        {
+            "id": "sXbxsuETDiR",
+            "code": "DEG_eOJVfUcfjaQ.JuGknBsXFfV",
+            "name": "Cholera Outbreak - Community level",
+            "created": "2019-01-21T19:01:40.339",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Cholera Oua Outbreak.Community levelnity level",
+            "legendSets": [],
+            "displayName": "Cholera Outbreak - Community level",
+            "lastUpdated": "2019-01-23T12:46:08.949",
+            "publicAccess": "rw------",
+            "translations": [
+                {
+                    "value": "Surto de Cólera - Nível comunitário",
+                    "locale": "pt",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Brote de Cólera - Nivel comunitario",
+                    "locale": "es",
+                    "property": "NAME"
+                },
+                {
+                    "value": "Flambée de Choléra - Niveau communautaire",
+                    "locale": "fr",
+                    "property": "NAME"
+                }
+            ],
+            "dimensionItem": "sXbxsuETDiR",
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "externalAccess": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "displayFormName": "Cholera Outbreak - Community level",
+            "displayShortName": "Cholera Oua Outbreak.Community levelnity level",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        }
+    ],
+    "dataElementGroupSets": [
+        {
+            "id": "FiVVdFCnZEZ",
+            "name": "By status",
+            "items": [
+                {
+                    "id": "XiY3DWrn4z3"
+                },
+                {
+                    "id": "O5KvfwVfUfo"
+                },
+                {
+                    "id": "kxzN3Nz6zed"
+                },
+                {
+                    "id": "Jkyv4baHmhj"
+                },
+                {
+                    "id": "pnQ8vZc0khV"
+                },
+                {
+                    "id": "eiZ4nFtt115"
+                },
+                {
+                    "id": "SvmlMrh85cu"
+                }
+            ],
+            "created": "2017-11-28T12:03:07.434",
+            "allItems": false,
+            "favorite": false,
+            "dimension": "FiVVdFCnZEZ",
+            "favorites": [],
+            "shortName": "By status",
+            "compulsory": false,
+            "description": "Data element groups by data element status",
+            "displayName": "By status",
+            "lastUpdated": "2019-01-23T12:46:13.120",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dataDimension": false,
+            "dimensionType": "DATA_ELEMENT_GROUP_SET",
+            "lastUpdatedBy": {
+                "id": "ouyVQFYUVbH"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "By status",
+            "displayShortName": "By status",
+            "displayDescription": "Data element groups by data element status"
+        }
+    ]
+}
