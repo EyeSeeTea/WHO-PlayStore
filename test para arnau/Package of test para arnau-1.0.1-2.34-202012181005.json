@@ -1,0 +1,804 @@
+{
+    "package": {
+        "id": "lrLxTXhWYhc",
+        "name": "Package of test para arnau",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.1",
+        "dhisVersion": "2.34",
+        "module": {
+            "id": "yWTlOFXwFSv",
+            "name": "test para arnau",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "name": "CC access",
+                "id": "dDI3HYmyK3l"
+            }
+        },
+        "user": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-12-18T10:05:14.182Z",
+        "lastUpdated": "2020-12-18T10:05:17.703Z",
+        "lastUpdatedBy": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "rayEGGqQwIC",
+            "name": "Climate factors",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "mobile": false,
+            "created": "2019-12-02T10:47:27.013",
+            "version": 23,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Climate data",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Daily",
+            "timelyDays": 15,
+            "description": "Analysis of relation between climate factors and diseases",
+            "displayName": "Climate factors",
+            "lastUpdated": "2020-12-18T07:43:01.867",
+            "skipOffline": false,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "rayEGGqQwIC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "klaKtwaWAvG"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "c24Y5UNjXyj"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "RSJpUZqMoxC"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "uWYGA1xiwuZ"
+                    }
+                }
+            ],
+            "displayFormName": "Climate factors",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Climate data",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "userGroupAccesses": [],
+            "validCompleteOnly": false,
+            "displayDescription": "Analysis of relation between climate factors and diseases",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        },
+        {
+            "id": "f76jQ8eAuCR",
+            "name": "Climate factors (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "mobile": false,
+            "created": "2020-07-09T16:59:36.716",
+            "version": 7,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Climate data (predictors)",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Daily",
+            "timelyDays": 15,
+            "description": "Analysis of climate factors in the future",
+            "displayName": "Climate factors (predictors)",
+            "lastUpdated": "2020-10-23T19:05:51.333",
+            "skipOffline": false,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "f76jQ8eAuCR",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "sGxB2hDUQk7"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "C9g75snMS5S"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "yb3FPpPu61p"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "JktSaZhiVrF"
+                    }
+                }
+            ],
+            "displayFormName": "Climate factors (predictors)",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Climate data (predictors)",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 3000,
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rwrw----",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-rw----",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ],
+            "validCompleteOnly": false,
+            "displayDescription": "Analysis of climate factors in the future",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "uWYGA1xiwuZ",
+            "code": "DEA_CC_Rainfall",
+            "name": "CC - Rainfall",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2019-12-02T10:40:32.727",
+            "favorite": false,
+            "formName": "Rainfall",
+            "favorites": [],
+            "shortName": "Rainfall",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Rainfall for a specific day",
+            "displayName": "CC - Rainfall",
+            "lastUpdated": "2020-12-18T07:43:01.849",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "uWYGA1xiwuZ",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "uWYGA1xiwuZ"
+                    }
+                }
+            ],
+            "displayFormName": "Rainfall",
+            "displayShortName": "Rainfall",
+            "aggregationLevels": [
+                5
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [],
+            "zeroIsSignificant": true,
+            "displayDescription": "Rainfall for a specific day"
+        },
+        {
+            "id": "RSJpUZqMoxC",
+            "code": "DEA_CC_Temperature",
+            "name": "CC - Temperature",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2019-12-02T10:39:11.765",
+            "favorite": false,
+            "formName": "Temperature",
+            "favorites": [],
+            "shortName": "Temperature",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature",
+            "lastUpdated": "2020-12-18T07:43:01.851",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "RSJpUZqMoxC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "RSJpUZqMoxC"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature",
+            "displayShortName": "Temperature",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "c24Y5UNjXyj",
+            "code": "DEA_CC_temperature_max",
+            "name": "CC - Temperature max",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2020-01-17T19:25:00.986",
+            "favorite": false,
+            "formName": "Temperature up",
+            "favorites": [],
+            "shortName": "Temperature max",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature max",
+            "lastUpdated": "2020-12-18T07:43:01.851",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "c24Y5UNjXyj",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "c24Y5UNjXyj"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature up",
+            "displayShortName": "Temperature max",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "klaKtwaWAvG",
+            "code": "DEA_CC_temperature_min",
+            "name": "CC - Temperature min",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2020-01-17T19:24:46.214",
+            "favorite": false,
+            "formName": "Temperature down",
+            "favorites": [],
+            "shortName": "Temperature min",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature min",
+            "lastUpdated": "2020-12-18T07:43:01.852",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "klaKtwaWAvG",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "rayEGGqQwIC"
+                    },
+                    "dataElement": {
+                        "id": "klaKtwaWAvG"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature down",
+            "displayShortName": "Temperature min",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "mK2oQeHvdm5"
+                },
+                {
+                    "id": "aMpkgOgq9gc"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "sGxB2hDUQk7",
+            "code": "DEA_CC_Rainfall_predictors",
+            "name": "CC - Rainfall (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "created": "2020-07-09T16:42:38.693",
+            "favorite": false,
+            "formName": "Rainfall",
+            "favorites": [],
+            "shortName": "Rainfall (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Rainfall for a specific day",
+            "displayName": "CC - Rainfall (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.570",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "sGxB2hDUQk7",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "sGxB2hDUQk7"
+                    }
+                }
+            ],
+            "displayFormName": "Rainfall",
+            "displayShortName": "Rainfall (predictors)",
+            "aggregationLevels": [
+                5
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rw------",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-------",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ],
+            "zeroIsSignificant": true,
+            "displayDescription": "Rainfall for a specific day"
+        },
+        {
+            "id": "C9g75snMS5S",
+            "code": "DEA_CC_Temperature_predictors",
+            "name": "CC - Temperature (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "created": "2020-07-09T16:43:08.037",
+            "favorite": false,
+            "formName": "Temperature",
+            "favorites": [],
+            "shortName": "Temperature (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.573",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "C9g75snMS5S",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "C9g75snMS5S"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature",
+            "displayShortName": "Temperature (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rw------",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-------",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "JktSaZhiVrF",
+            "code": "CC_Temperature_max_predictors",
+            "name": "CC - Temperature max (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "created": "2020-07-09T16:44:06.227",
+            "favorite": false,
+            "formName": "Temperature up",
+            "favorites": [],
+            "shortName": "Temperature max (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature max (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.572",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "JktSaZhiVrF",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "JktSaZhiVrF"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature up",
+            "displayShortName": "Temperature max (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rw------",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-------",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "yb3FPpPu61p",
+            "code": "CC_Temperature_min_predictors",
+            "name": "CC - Temperature min (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "created": "2020-07-09T16:44:50.810",
+            "favorite": false,
+            "formName": "Temperature down",
+            "favorites": [],
+            "shortName": "Temperature min (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature min (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.572",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "yb3FPpPu61p",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "yb3FPpPu61p"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature down",
+            "displayShortName": "Temperature min (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rw------",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-------",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ],
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        }
+    ],
+    "visualizations": [],
+    "dataElementGroups": [
+        {
+            "id": "aMpkgOgq9gc",
+            "name": "Climate Change",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2019-12-02T10:54:31.431",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Climate Change",
+            "legendSets": [],
+            "displayName": "Climate Change",
+            "lastUpdated": "2020-12-17T14:47:56.431",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "aMpkgOgq9gc",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate Change",
+            "displayShortName": "Climate Change",
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "userGroupAccesses": []
+        },
+        {
+            "id": "mK2oQeHvdm5",
+            "name": "Climate Change - Malaria",
+            "user": {
+                "id": "gUQgjMPkPvK"
+            },
+            "created": "2019-12-17T12:14:19.030",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "CC-MAL",
+            "legendSets": [],
+            "displayName": "Climate Change - Malaria",
+            "lastUpdated": "2020-12-17T14:47:56.432",
+            "publicAccess": "--------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "mK2oQeHvdm5",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate Change - Malaria",
+            "displayShortName": "CC-MAL",
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "userGroupAccesses": []
+        },
+        {
+            "id": "iSgkjvu0hzC",
+            "code": "DEG_CC_predictors",
+            "name": "Climate change (predictors)",
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "created": "2020-07-09T16:56:03.973",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Climate change (predictors)",
+            "legendSets": [],
+            "displayName": "Climate change (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.605",
+            "publicAccess": "rw------",
+            "translations": [],
+            "userAccesses": [],
+            "dimensionItem": "iSgkjvu0hzC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate change (predictors)",
+            "displayShortName": "Climate change (predictors)",
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "userGroupAccesses": [
+                {
+                    "id": "E3Wsdy0Lr3D",
+                    "access": "rw------",
+                    "displayName": "CC admin",
+                    "userGroupUid": "E3Wsdy0Lr3D"
+                },
+                {
+                    "id": "dDI3HYmyK3l",
+                    "access": "r-------",
+                    "displayName": "CC access",
+                    "userGroupUid": "dDI3HYmyK3l"
+                }
+            ]
+        }
+    ]
+}
