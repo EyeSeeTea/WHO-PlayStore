@@ -1,9 +1,9 @@
 {
     "id": "mrmEvYwMDJg",
     "name": "test Jorge PR",
-    "instance": "http://dev2.eyeseetea.com:8088",
+    "instance": "http://dev2.eyeseetea.com:8085",
     "department": {
-        "name": "Administrators",
-        "id": "LjRqO9XzQPs"
+        "id": "LjRqO9XzQPs",
+        "name": "Administrators"
     }
 }
