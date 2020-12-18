@@ -1,0 +1,375 @@
+{
+    "package": {
+        "id": "q0sLkZ3Gh7Y",
+        "name": "Package of test Jorge PR",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.3",
+        "dhisVersion": "2.34",
+        "module": {
+            "id": "mrmEvYwMDJg",
+            "name": "test Jorge PR",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "id": "LjRqO9XzQPs",
+                "name": "Administrators"
+            }
+        },
+        "user": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-12-18T11:41:09.352Z",
+        "lastUpdated": "2020-12-18T11:41:16.346Z",
+        "lastUpdatedBy": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "DdIVZcGE77H",
+            "code": "CFNCM",
+            "name": "Consolidado Formulario de Notificación de Casos Malaria (CFNCM)",
+            "mobile": false,
+            "created": "2020-12-09T15:12:24.450",
+            "version": 15,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "CFNCM",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "WeeklySunday",
+            "timelyDays": 15,
+            "description": "Este data set sirve para notificar el caso de malaria por residencia del paciente",
+            "displayName": "Consolidado Formulario de Notificación de Casos Malaria (CFNCM)",
+            "lastUpdated": "2020-12-17T09:50:28.382",
+            "skipOffline": false,
+            "publicAccess": "rw------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "DdIVZcGE77H",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "LQTwMcUwPHb"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "w1dQHOxKY2e"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "q5mkCLKcAtA"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "QKSlyo1lYdg"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "BoPocyc4ErP"
+                    }
+                }
+            ],
+            "displayFormName": "Consolidado Formulario de Notificación de Casos Malaria (CFNCM)",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "CFNCM",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 1,
+            "organisationUnits": [],
+            "validCompleteOnly": true,
+            "displayDescription": "Este data set sirve para notificar el caso de malaria por residencia del paciente",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": true,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "w1dQHOxKY2e",
+            "code": "CFNCM  fncm06plasmodium_vivax_noti",
+            "name": "CFNCM 01 Numero de Casos de Plasmodium Vivax Notificados",
+            "created": "2020-12-09T14:50:33.965",
+            "favorite": false,
+            "formName": "Numero de casos de Plasmodium Vivax Notificados",
+            "favorites": [],
+            "shortName": "CFNCM  Cantidad Plasmodium Vivax Notificados",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Elemento de dato donde se guarda la cantidad de plasmodium vivax Notificados",
+            "displayName": "CFNCM 01 Numero de Casos de Plasmodium Vivax Notificados",
+            "lastUpdated": "2020-12-17T09:50:28.366",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "w1dQHOxKY2e",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "w1dQHOxKY2e"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "fcJNfZHzovA"
+                    },
+                    "dataElement": {
+                        "id": "w1dQHOxKY2e"
+                    }
+                }
+            ],
+            "displayFormName": "Numero de casos de Plasmodium Vivax Notificados",
+            "displayShortName": "CFNCM  Cantidad Plasmodium Vivax Notificados",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Elemento de dato donde se guarda la cantidad de plasmodium vivax Notificados"
+        },
+        {
+            "id": "QKSlyo1lYdg",
+            "code": "CFNCM fncm07plasmodium_falciparum_noti",
+            "name": "CFNCM 02 Numero de Casos de Plasmodium Falciparum Notificados",
+            "created": "2020-12-09T14:50:58.230",
+            "favorite": false,
+            "formName": "Numero de Casos de Plasmodium Falciparum Notificados",
+            "favorites": [],
+            "shortName": "CFNCM Cantidad Plasmodium Falciparum Notificados",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Elemento de dato donde se almacena la cantidad de plasmodium falciparum notificados",
+            "displayName": "CFNCM 02 Numero de Casos de Plasmodium Falciparum Notificados",
+            "lastUpdated": "2020-12-17T09:50:28.366",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "QKSlyo1lYdg",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "QKSlyo1lYdg"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "fcJNfZHzovA"
+                    },
+                    "dataElement": {
+                        "id": "QKSlyo1lYdg"
+                    }
+                }
+            ],
+            "displayFormName": "Numero de Casos de Plasmodium Falciparum Notificados",
+            "displayShortName": "CFNCM Cantidad Plasmodium Falciparum Notificados",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Elemento de dato donde se almacena la cantidad de plasmodium falciparum notificados"
+        },
+        {
+            "id": "LQTwMcUwPHb",
+            "code": "CFNCM fncm08plasmodium_mixto_noti",
+            "name": "CFNCM 03 numero de Casos de Plasmodium Mixto Notificados",
+            "created": "2020-12-09T14:51:41.694",
+            "favorite": false,
+            "formName": "Numero de Casos de Plasmodium Mixto Notificados",
+            "favorites": [],
+            "shortName": "CFNCM Cantidad Plasmodium Mixto Notificados",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Elemento de dato donde almacena la cantidad de plasmodium mixto Notificados",
+            "displayName": "CFNCM 03 numero de Casos de Plasmodium Mixto Notificados",
+            "lastUpdated": "2020-12-17T09:50:28.366",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "LQTwMcUwPHb",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "fcJNfZHzovA"
+                    },
+                    "dataElement": {
+                        "id": "LQTwMcUwPHb"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "LQTwMcUwPHb"
+                    }
+                }
+            ],
+            "displayFormName": "Numero de Casos de Plasmodium Mixto Notificados",
+            "displayShortName": "CFNCM Cantidad Plasmodium Mixto Notificados",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Elemento de dato donde almacena la cantidad de plasmodium mixto Notificados"
+        },
+        {
+            "id": "q5mkCLKcAtA",
+            "code": "CFNCM_Cantidad_GG_semana",
+            "name": "CFNCM 04 Cantidad GG por semana",
+            "created": "2020-12-09T15:08:07.154",
+            "favorite": false,
+            "formName": "Cantidad GG por semana",
+            "favorites": [],
+            "shortName": "CFNCM_Cantidad GG por semana",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "CFNCM 04 Cantidad GG por semana",
+            "lastUpdated": "2020-12-17T09:50:28.366",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "q5mkCLKcAtA",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "fcJNfZHzovA"
+                    },
+                    "dataElement": {
+                        "id": "q5mkCLKcAtA"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "q5mkCLKcAtA"
+                    }
+                }
+            ],
+            "displayFormName": "Cantidad GG por semana",
+            "displayShortName": "CFNCM_Cantidad GG por semana",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true
+        },
+        {
+            "id": "BoPocyc4ErP",
+            "code": "CFNCM_Cantidad_PDR_semana",
+            "name": "CFNCM 05 Cantidad PDR por semana",
+            "created": "2020-12-09T15:07:21.975",
+            "favorite": false,
+            "formName": "Cantidad PDR por semana",
+            "favorites": [],
+            "shortName": "CFNCM_Cantidad PDR por semana",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "CFNCM 05 Cantidad PDR por semana",
+            "lastUpdated": "2020-12-17T09:50:28.366",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "BoPocyc4ErP",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "DdIVZcGE77H"
+                    },
+                    "dataElement": {
+                        "id": "BoPocyc4ErP"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "fcJNfZHzovA"
+                    },
+                    "dataElement": {
+                        "id": "BoPocyc4ErP"
+                    }
+                }
+            ],
+            "displayFormName": "Cantidad PDR por semana",
+            "displayShortName": "CFNCM_Cantidad PDR por semana",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true
+        }
+    ],
+    "visualizations": []
+}
