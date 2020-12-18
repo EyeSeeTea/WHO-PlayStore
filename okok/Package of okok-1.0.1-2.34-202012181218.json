@@ -1,0 +1,687 @@
+{
+    "package": {
+        "id": "pJyKmwDyHsi",
+        "name": "Package of okok",
+        "deleted": false,
+        "description": "",
+        "version": "1.0.1",
+        "dhisVersion": "2.34",
+        "module": {
+            "id": "E0ii37AL3DJ",
+            "name": "okok",
+            "instance": "http://dev2.eyeseetea.com:8085",
+            "department": {
+                "id": "dDI3HYmyK3l",
+                "name": "CC access"
+            }
+        },
+        "user": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-12-18T12:18:59.006Z",
+        "lastUpdated": "2020-12-18T12:19:05.554Z",
+        "lastUpdatedBy": {
+            "id": "gUQgjMPkPvK",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "f76jQ8eAuCR",
+            "name": "Climate factors (predictors)",
+            "mobile": false,
+            "created": "2020-07-09T16:59:36.716",
+            "version": 7,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Climate data (predictors)",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Daily",
+            "timelyDays": 15,
+            "description": "Analysis of climate factors in the future",
+            "displayName": "Climate factors (predictors)",
+            "lastUpdated": "2020-10-23T19:05:51.333",
+            "skipOffline": false,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "f76jQ8eAuCR",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "JktSaZhiVrF"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "sGxB2hDUQk7"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "yb3FPpPu61p"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "C9g75snMS5S"
+                    }
+                }
+            ],
+            "displayFormName": "Climate factors (predictors)",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Climate data (predictors)",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 3000,
+            "organisationUnits": [
+                {
+                    "id": "Mh3MouoB8Qw"
+                },
+                {
+                    "id": "mfqO2fplCfN"
+                },
+                {
+                    "id": "nCliAIghgvS"
+                },
+                {
+                    "id": "yPn12R5naqJ"
+                },
+                {
+                    "id": "WnweWTOA3Bz"
+                },
+                {
+                    "id": "N6BJgpCaliD"
+                },
+                {
+                    "id": "b6hwG8JT8tT"
+                },
+                {
+                    "id": "CImZjlYAIJR"
+                },
+                {
+                    "id": "q53ccn5xMtx"
+                },
+                {
+                    "id": "bGOQFhjNFr5"
+                },
+                {
+                    "id": "EhsigulLsGJ"
+                },
+                {
+                    "id": "eAu3YJkAgeJ"
+                },
+                {
+                    "id": "aOtr0GZoOQz"
+                },
+                {
+                    "id": "gRN0TTjmHD1"
+                },
+                {
+                    "id": "mOSo6aJThIA"
+                },
+                {
+                    "id": "v6aN4qeSTDw"
+                },
+                {
+                    "id": "xZdOeoEF94v"
+                },
+                {
+                    "id": "ubwjioysTXi"
+                },
+                {
+                    "id": "Cd4QQzp6I5B"
+                },
+                {
+                    "id": "aU8ZGLi2cxk"
+                },
+                {
+                    "id": "s6odlJzLV31"
+                },
+                {
+                    "id": "SGUE8uREw3t"
+                },
+                {
+                    "id": "CdvoSXdS4Ju"
+                },
+                {
+                    "id": "myALBrKK8Hd"
+                },
+                {
+                    "id": "uVcYpFJ3BvZ"
+                },
+                {
+                    "id": "IJpJTOqnSb0"
+                },
+                {
+                    "id": "n642ZwFasgl"
+                },
+                {
+                    "id": "PPZZlTrHdwT"
+                },
+                {
+                    "id": "Ky6ZAJvX5TN"
+                },
+                {
+                    "id": "rRpCtenjMc6"
+                },
+                {
+                    "id": "ObvvddcAtQO"
+                },
+                {
+                    "id": "xAWooM3sWV0"
+                },
+                {
+                    "id": "X65QVdbS7x7"
+                },
+                {
+                    "id": "ByqsEM8ZsAz"
+                },
+                {
+                    "id": "Kf6BN5I6pLV"
+                },
+                {
+                    "id": "LUmcbhoFMzd"
+                },
+                {
+                    "id": "dKu76PoXrQX"
+                },
+                {
+                    "id": "azyqPDU2pf3"
+                },
+                {
+                    "id": "kbv9iwCpokl"
+                },
+                {
+                    "id": "tTtUrzNhDg3"
+                },
+                {
+                    "id": "lrGqnF0ZzM6"
+                },
+                {
+                    "id": "GlO0dKjdRxq"
+                },
+                {
+                    "id": "W9zb3Yva3Va"
+                },
+                {
+                    "id": "emI2bZvcq9K"
+                },
+                {
+                    "id": "gEGjk21yljW"
+                },
+                {
+                    "id": "VlbxZJ7wJmz"
+                },
+                {
+                    "id": "yh3NwdKA8LR"
+                },
+                {
+                    "id": "iqcwksAb1aU"
+                },
+                {
+                    "id": "gfHm4sYgi0m"
+                },
+                {
+                    "id": "AZzwWDnJqdp"
+                },
+                {
+                    "id": "kVaFnEaWZP0"
+                },
+                {
+                    "id": "FwdnfcOSD2M"
+                },
+                {
+                    "id": "BUzITQONG0i"
+                },
+                {
+                    "id": "v47ZzRTBfxo"
+                },
+                {
+                    "id": "eD1afIl9y3e"
+                },
+                {
+                    "id": "xMvAcyWPxaD"
+                },
+                {
+                    "id": "N5TdlbdqJMA"
+                },
+                {
+                    "id": "yLobSYtGPEj"
+                },
+                {
+                    "id": "DmR19k293Hr"
+                },
+                {
+                    "id": "UlUWpRwY0iz"
+                },
+                {
+                    "id": "J0CiQg4Pnfb"
+                },
+                {
+                    "id": "Ul76hFnnTrb"
+                },
+                {
+                    "id": "KZCAvf7PtMa"
+                },
+                {
+                    "id": "bSIYJFk5Pzz"
+                },
+                {
+                    "id": "LlqK7AmeALh"
+                },
+                {
+                    "id": "qJkTwo3byYA"
+                },
+                {
+                    "id": "Jn8YvN9eaR5"
+                }
+            ],
+            "validCompleteOnly": false,
+            "displayDescription": "Analysis of climate factors in the future",
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        },
+        {
+            "id": "vIqNn2HnjMy",
+            "name": "test mapping",
+            "mobile": false,
+            "created": "2020-11-03T18:42:43.062",
+            "version": 1,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "expiryDays": 0,
+            "indicators": [
+                {
+                    "id": "GPKPt4a2wAB"
+                }
+            ],
+            "legendSets": [],
+            "periodType": "Monthly",
+            "timelyDays": 15,
+            "displayName": "test mapping",
+            "lastUpdated": "2020-12-18T12:16:30.354",
+            "skipOffline": false,
+            "publicAccess": "rw------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "vIqNn2HnjMy",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "jIrseIMc0Eo"
+                    }
+                }
+            ],
+            "displayFormName": "test mapping",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "organisationUnits": [],
+            "validCompleteOnly": false,
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "indicators": [
+        {
+            "id": "GPKPt4a2wAB",
+            "name": "test",
+            "created": "2020-11-03T18:41:32.265",
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{SXGjaEobp6V.oPcWGgS2Liz}",
+            "shortName": "test",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "#{BjDrgVrkBI3.hF0pQZIn6Ch}",
+            "displayName": "test",
+            "lastUpdated": "2020-12-18T12:16:30.346",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "GPKPt4a2wAB",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "test",
+            "indicatorGroups": [],
+            "displayShortName": "test",
+            "dimensionItemType": "INDICATOR",
+            "numeratorDescription": "num",
+            "denominatorDescription": "den",
+            "displayNumeratorDescription": "num",
+            "displayDenominatorDescription": "den"
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "sGxB2hDUQk7",
+            "code": "DEA_CC_Rainfall_predictors",
+            "name": "CC - Rainfall (predictors)",
+            "created": "2020-07-09T16:42:38.693",
+            "favorite": false,
+            "formName": "Rainfall",
+            "favorites": [],
+            "shortName": "Rainfall (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Rainfall for a specific day",
+            "displayName": "CC - Rainfall (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.570",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "sGxB2hDUQk7",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "sGxB2hDUQk7"
+                    }
+                }
+            ],
+            "displayFormName": "Rainfall",
+            "displayShortName": "Rainfall (predictors)",
+            "aggregationLevels": [
+                5
+            ],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Rainfall for a specific day"
+        },
+        {
+            "id": "C9g75snMS5S",
+            "code": "DEA_CC_Temperature_predictors",
+            "name": "CC - Temperature (predictors)",
+            "created": "2020-07-09T16:43:08.037",
+            "favorite": false,
+            "formName": "Temperature",
+            "favorites": [],
+            "shortName": "Temperature (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.573",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "C9g75snMS5S",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "C9g75snMS5S"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature",
+            "displayShortName": "Temperature (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "JktSaZhiVrF",
+            "code": "CC_Temperature_max_predictors",
+            "name": "CC - Temperature max (predictors)",
+            "created": "2020-07-09T16:44:06.227",
+            "favorite": false,
+            "formName": "Temperature up",
+            "favorites": [],
+            "shortName": "Temperature max (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature max (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.572",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "JktSaZhiVrF",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "JktSaZhiVrF"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature up",
+            "displayShortName": "Temperature max (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "yb3FPpPu61p",
+            "code": "CC_Temperature_min_predictors",
+            "name": "CC - Temperature min (predictors)",
+            "created": "2020-07-09T16:44:50.810",
+            "favorite": false,
+            "formName": "Temperature down",
+            "favorites": [],
+            "shortName": "Temperature min (predictors)",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "description": "Temperature for a specific day",
+            "displayName": "CC - Temperature min (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.572",
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "yb3FPpPu61p",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "f76jQ8eAuCR"
+                    },
+                    "dataElement": {
+                        "id": "yb3FPpPu61p"
+                    }
+                }
+            ],
+            "displayFormName": "Temperature down",
+            "displayShortName": "Temperature min (predictors)",
+            "aggregationLevels": [],
+            "dataElementGroups": [
+                {
+                    "id": "iSgkjvu0hzC"
+                }
+            ],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": true,
+            "displayDescription": "Temperature for a specific day"
+        },
+        {
+            "id": "jIrseIMc0Eo",
+            "name": "test",
+            "created": "2020-10-06T07:13:41.948",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "test",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "test",
+            "lastUpdated": "2020-12-18T12:16:30.334",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "jIrseIMc0Eo",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "vIqNn2HnjMy"
+                    },
+                    "dataElement": {
+                        "id": "jIrseIMc0Eo"
+                    }
+                }
+            ],
+            "displayFormName": "test",
+            "displayShortName": "test",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "factor": 100,
+            "number": false,
+            "created": "2015-03-23T01:41:28.852",
+            "favorite": false,
+            "favorites": [],
+            "displayName": "Percentage",
+            "lastUpdated": "2020-12-18T12:16:30.342",
+            "translations": [
+                {
+                    "value": "Pourcentage",
+                    "locale": "fr",
+                    "property": "NAME"
+                }
+            ],
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        }
+    ],
+    "visualizations": [],
+    "dataElementGroups": [
+        {
+            "id": "iSgkjvu0hzC",
+            "code": "DEG_CC_predictors",
+            "name": "Climate change (predictors)",
+            "created": "2020-07-09T16:56:03.973",
+            "favorite": false,
+            "favorites": [],
+            "groupSets": [],
+            "shortName": "Climate change (predictors)",
+            "legendSets": [],
+            "displayName": "Climate change (predictors)",
+            "lastUpdated": "2020-10-23T19:03:13.605",
+            "publicAccess": "rw------",
+            "translations": [],
+            "dimensionItem": "iSgkjvu0hzC",
+            "lastUpdatedBy": {
+                "id": "gUQgjMPkPvK"
+            },
+            "externalAccess": false,
+            "aggregationType": "AVERAGE",
+            "attributeValues": [],
+            "displayFormName": "Climate change (predictors)",
+            "displayShortName": "Climate change (predictors)",
+            "dimensionItemType": "DATA_ELEMENT_GROUP"
+        }
+    ]
+}
